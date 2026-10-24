@@ -9,14 +9,16 @@ Every output must declare its mode and what was actually seen. Never imply live 
 
 Exact connector capabilities change as vendors update them. Verify current scope at setup time; the procedures below describe what to read and why, not a guarantee of a vendor's current API surface.
 
-## Figma and Figma Slides (past work evidence, deck files, comments)
+## Design and deck files (Figma and Figma Slides, Adobe Creative Cloud, Keynote and PowerPoint exports)
+
+Tool-neutral by design: the procedure is the same whatever the studio builds decks and case files in. Figma is named where a step depends on a feature its connectors expose.
 
 Purpose in this skill: pull proof from the studio's real files (past project frames for case pages, process artifacts, architecture diagrams), read client or team comments on a deck in progress, and inspect the structure of a deck file before it is presented.
 
 Connected mode procedure:
 1. Ask the assistant to list the file's pages and top level frames or slides. From the structure, identify the frames that carry the evidence the outline calls for: pack shots, before and after pairs, dielines, audit spreads, guideline pages.
 2. Read unresolved comments on deck files. Summarise them by theme (argument disputes, missing proof, client questions). Comments on a sales deck are drafting data: a comment thread arguing about a claim is a signal the claim needs a source or needs to come out.
-3. Where the connector exposes slide order and speaker notes in a Figma Slides file, check the outline against the file: headline per page, notes present, cold-read pages marked. Report mismatches rather than silently reordering.
+3. Where the connection exposes slide order and speaker notes (a Figma Slides file, for example), check the outline against the file: headline per page, notes present, cold-read pages marked. Report mismatches rather than silently reordering.
 4. Record what was read: file name, date, which frames or slides were used as evidence.
 
 Manual mode procedure:

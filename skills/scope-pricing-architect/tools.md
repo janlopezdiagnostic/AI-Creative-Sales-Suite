@@ -9,7 +9,9 @@ Every output must declare its mode and what was actually seen. Never imply live 
 
 Exact connector capabilities change as vendors update them. Verify current scope at setup time; the procedures below describe what to read and why, not a guarantee of a vendor's current API surface.
 
-## Figma (design files, FigJam, comments)
+## Design files (Figma, Adobe Creative Cloud, Affinity, Sketch)
+
+Tool-neutral by design: this procedure is the same whatever the studio designs in. Figma is the worked example below because its connectors are the most common, not because the skill prefers it.
 
 Purpose in this skill: count deliverables and judge complexity from the real files, not the client's summary of them.
 
@@ -20,7 +22,7 @@ Connected mode procedure:
 4. Record what was read: file name, date, page/frame counts used for the estimate.
 
 Manual mode procedure:
-1. Ask the user for: a PDF export of the relevant file or deck, screenshots of the page list or layers panel, and the comment thread pasted as text (Figma comments can be copied from the file).
+1. Ask the user for: a PDF export of the relevant file or deck, screenshots of the page list or layers panel, and the comment thread pasted as text (comments can be copied out of most design tools).
 2. Work from the export. Where the export hides structure (tokens, components), say so and mark the affected estimate lines as assumptions.
 
 What this feeds: the deliverables inventory, the SKU count in the scope, the adaptation estimate, and the risk note on revisions.

@@ -16,7 +16,7 @@ Why they pay B2B prices: the suite prices against one won project ($15k-100k+) a
 - Vertical layers: one context file per industry, loaded with the core skill. Packaging first; brand & product design second; fashion third; agencies as the widest layer last.
 - Every paid skill ships as a module meeting the depth standard: SKILL.md, playbook.md (3,000-5,000 words), decision-trees.md (3-5 trees), examples/ (8-12 worked cases incl. failures recovered), templates/ (6-10), edge-cases.md (15-40), tools.md (dual-mode), self-check.md (10-15 checks), evals.md (20+ tests).
 - Quality gate before any skill counts as done: structural lint, eval runs on 2+ assistants at 90%+ with zero invented-fact failures, blind stress test on messy inputs, practitioner review at 4/5 or better, tool test in both connected and manual mode with the date recorded.
-- Setup guides: one runbook per major tool (Figma first), plus an environment matrix (Claude, ChatGPT, Cursor, Gemini).
+- Setup guides: one generic connecting guide for every major tool category (no single tool is the headline), plus an environment matrix (Claude, ChatGPT, Cursor, Gemini).
 
 ## Pricing (one-time, files + update rights)
 
@@ -46,7 +46,8 @@ The primary customer is a founder or sales lead who is expert in clients and new
 - The first thing a buyer reads is START-HERE.md: five minutes, problem, solution, three steps. The long files are for the AI, never assigned as reading.
 - Skills are introduced by the job ("Price a project without guessing"), with the formal skill name second.
 - Every SKILL.md opens with a plain-English box: what it does, what to give the assistant, and one starter sentence to copy.
-- The default way of working is copy and paste (manual mode). Tool connections (Figma, CRM) are an optional later extra, presented that way in all customer copy, never as the main path.
+- The default way of working is copy and paste (manual mode). Tool connections (CRM, documents, design files) are an optional later extra, presented that way in all customer copy, never as the main path.
+- Tooling is generic (owner correction, Oct 24, 2026: Figma was one example in the original brief, not a priority). No single tool is the headline in any guide or customer copy: design files means Figma, Adobe Creative Cloud, Affinity, or Sketch; every tools file runs the same procedure whatever the studio uses.
 - The fact sheet is the only homework, it ships with a filled-in fictional sample, and a starter prompt lets the assistant interview the buyer to complete it.
 - Claims are softened to what the files can honestly do: the assistant is instructed never to invent and to mark gaps; copy says drafts are checked by the buyer before anything reaches a client.
 

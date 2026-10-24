@@ -22,11 +22,11 @@ Manual mode:
 
 Never: log another client's terms into this client's record, record a verbal maybe as a commitment stage, or set a follow-up date the user has not agreed.
 
-## Figma (guardianship file audits)
+## Design files (guardianship audits: Figma, Adobe Creative Cloud, Sketch)
 
 What it is for here: evidencing the state of the system the retainer would guard: the delivered brand or packaging files, component libraries, artwork templates, and what has drifted since handover.
 
-Connected mode (user's Figma connector or MCP access, as set up in the suite's Figma setup guide):
+Connected mode (the user's design tool connection, set up as described in the suite's connecting-your-tools guide):
 - Read: file and page structure, component and variable counts, published library status, comments since handover, and version history summaries where the connection exposes them.
 - Produce: a guardianship audit summary: what exists, what has been added or altered outside the system, drift instances worth citing in the recap or expansion map, each tied to the file and date you actually saw.
 - You are reading design files as evidence. You do not edit them under this skill, at any confirmation level; edits belong to delivery work, not to a sales audit.

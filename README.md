@@ -53,7 +53,7 @@ Every skill comes with the same backup, all written for the AI rather than for y
 
 **The simple way is the normal way.** Copy and paste: the client email, your call notes, your price list, an exported list of pages from Figma. Every skill works fully this way.
 
-**The connected way is an optional extra.** If your assistant is connected to Figma, your CRM, or your documents, the skills can read from them directly, for example counting artwork files instead of you listing them. Studios with someone technical can set this up using the guides in `setup-guides/`. It is never required, and the suite never pretends a file can click inside an app by itself.
+**The connected way is an optional extra.** If your assistant is connected to the tools you already use (your CRM, your documents, your design app), the skills can read from them directly, for example reading your rate card from your documents or counting artwork files in a design file instead of you listing them. Studios with someone technical can set this up using the guides in `setup-guides/`. It is never required, and the suite never pretends a file can click inside an app by itself.
 
 ## Pricing
 
