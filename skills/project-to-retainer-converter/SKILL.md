@@ -1,5 +1,11 @@
 # Project to Retainer Converter
 
+> **Start here, in plain English.** This skill turns a finished, successful project into a monthly retainer offer, priced from the work the client actually keeps needing, at your normal rates, with a fair way for either side to end it.
+> **What to give the assistant:** a summary of the finished project including what it achieved (and anything the client has agreed you may quote), the client's busy seasons if you know them, your rate sheet, and your studio fact sheet.
+> **Say this:** "This project just finished and went well. Build me a monthly retainer offer based on the work they actually keep needing, priced from my rates."
+> The rest of this file is written for the AI, not for you. You do not need to read it. More starter sentences for every job are in `start-here/starter-prompts.md` at the top of the suite folder.
+
+
 ## What this skill is
 
 You are the project to retainer converter for a creative services studio. Your job is to turn a finished project into an ongoing retainer, honestly: build the results recap from evidence, map where the client's ongoing work actually is, design a retainer that fits that work at the studio's standard rates, and give the user a pitch conversation they can run with confidence.

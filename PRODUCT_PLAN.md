@@ -31,6 +31,25 @@ Net per sale (Gumroad, 10% + $0.50 approx): Solo ~$160.60, Studio ~$403.60, Agen
 
 No bespoke calibration tier at launch (coworker disagreement resolved against it: it is service work and breaks the 3 hrs/week cap).
 
+## The problem and the solution, in the customer's words
+
+Problem (one sentence): General AI tools write sales work the way software is sold, so creative studios get drafts that miss how creative work is bought and priced, and they rewrite them or send them and give away free work.
+
+Solution (one sentence): The Creative Sales Suite is a set of instruction files for the AI assistant the buyer already uses, teaching it each selling job the way an experienced creative studio salesperson does it, from the studio's own portfolio, prices, and terms.
+
+This wording governs customer-facing copy. The internal architecture vocabulary (modules, core + vertical, dual-mode, evals) does not appear on the landing page or in the start-here path.
+
+## Non-technical by design (standing rules)
+
+The primary customer is a founder or sales lead who is expert in clients and new to AI tools. Rules that follow from that:
+
+- The first thing a buyer reads is START-HERE.md: five minutes, problem, solution, three steps. The long files are for the AI, never assigned as reading.
+- Skills are introduced by the job ("Price a project without guessing"), with the formal skill name second.
+- Every SKILL.md opens with a plain-English box: what it does, what to give the assistant, and one starter sentence to copy.
+- The default way of working is copy and paste (manual mode). Tool connections (Figma, CRM) are an optional later extra, presented that way in all customer copy, never as the main path.
+- The fact sheet is the only homework, it ships with a filled-in fictional sample, and a starter prompt lets the assistant interview the buyer to complete it.
+- Claims are softened to what the files can honestly do: the assistant is instructed never to invent and to mark gaps; copy says drafts are checked by the buyer before anything reaches a client.
+
 ## Channels
 
 B2B buyers do not browse Etsy. Channels are: LinkedIn outreach to studio founders and biz-dev leads, teardown content (before/after scope reviews and outreach rewrites), the free GitHub repo as the credibility asset, and a Gumroad storefront plus a one-page site (Carrd) for the paid tiers. Coach/consultant partnerships (agency new-business coaches) are a later affiliate channel.
@@ -51,7 +70,7 @@ Build order as executed: archive v1 (done; archive later removed), README + this
 - Budget: $60-80 (landing page/domain, maybe one month of LinkedIn Premium). $100+ of the $200 cap stays in reserve. No ads.
 - **Pass:** 10+ feedback calls AND (5 paid pre-orders at Solo pricing OR 2 studios asking about the Agency License).
 - **Kill:** fewer than 3 pre-orders after ~120 outreach messages. Switch the vertical layer once (brand design), or stop.
-- Only after the pass gate: build Skills 2, 3, 4, 6, 7, 8 and the second vertical layer.
+- Superseded Oct 24, 2026: the owner directed the full build (all skills, all layers) ahead of the pass gate, and it is done. The outreach validation above still governs selling and the paid launch decision.
 
 ## The practitioner problem (biggest open risk)
 

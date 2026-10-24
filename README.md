@@ -1,59 +1,79 @@
 # Creative Sales Suite
 
-AI skills for the people who sell creative work: sales executives, account executives, founders, and biz-dev leads at packaging studios, brand and product design firms, fashion studios, and creative agencies.
+**Ready-made instruction files that teach your AI assistant to sell creative work properly.**
 
-Selling creative services is not SaaS selling. Deals are portfolio-led, scoping is bespoke, IP and usage rights are real money, procurement tries to buy taste by the day, and growth means turning one project into a retainer. Generic sales prompts handle none of that. This suite does.
+For the people who sell packaging, brand and product design, fashion, and agency work: sales executives, account executives, founders, and business development leads. You add the files to Claude, ChatGPT, or Gemini, and the assistant handles each selling job the way an experienced creative studio salesperson would, using your portfolio, your prices, and your terms.
 
-## How it works
+New here? Read **[START-HERE.md](START-HERE.md)** first. Five minutes, plain English, no technical knowledge needed.
 
-Each skill is a complete working module, not a single prompt: a core instruction file, a full playbook, decision trees, worked examples from messy, realistic inputs (every example is fictional and labelled as such), copy-ready templates, an edge-case library, tool procedures, a self-check the AI runs before it answers, and evaluation tests.
+## The problem
 
-**Core + vertical.** Eight core skills cover the full sales cycle. A short vertical layer file per industry (packaging first) adds the vocabulary, buyer roles, deal shapes, and calendars of that world. You load the core skill plus your layer.
+General AI tools write sales work the way software is sold. They do not know how creative work is actually bought and priced, so their drafts:
 
-**Dual-mode tooling.** Skills know the trade's tools, Figma first. In *connected mode*, if your AI assistant has the tool's connector or MCP server installed, the skill directs it to read live material (a Figma file's structure, components and comments; your CRM pipeline; your rate card in Notion). In *manual mode*, the skill tells you exactly what to export or paste instead. Every skill states which mode it is running in. A file pack cannot click inside an app by itself, and this one never pretends otherwise.
+- sound like they could be selling anything, to anyone
+- miss the things that decide your margin: how many revision rounds are included, what happens when the client adds products or pages, who owns the final files, how photography and design usage is paid for
+- quote prices with nothing underneath them, so the first discount demand has nowhere to go but down
+- happily invent facts about a client, a case study result, or your own rates
 
-**Two standing rules.** (1) Read first, write only with your confirmation: anything outward (an email, a CRM update, a Figma comment, a contract send) is drafted for your approval, never sent silently. (2) The AI never invents facts, signals, rates, or terms. Two bracketed markers make the gaps visible instead: `[UNVERIFIED]` for a fact or signal it could not source (used by the research skill), and `[TO CONFIRM]` for a rate, term, or decision only you can supply (used by the scoping skill and the vertical layers).
+So you rewrite the draft, or worse, you send it and give away free work.
 
-## The suite (8 skills)
+## How this solves it
 
-| # | Skill | Status |
-|---|---|---|
-| 1 | Account Research Brief | **Built. Free in this repo** |
-| 2 | Portfolio-Matched Outreach | **Built** |
-| 3 | Discovery Call Kit | **Built** |
-| 4 | Proposal & Deck Builder | **Built** |
-| 5 | Scope and Pricing Architect | **Built** |
-| 6 | Objection & Procurement Desk | **Built** |
-| 7 | Project-to-Retainer Converter | **Built** |
-| 8 | Revive & Referral | **Built** |
+Each skill in the suite teaches the assistant one selling job, in depth, with the rules a senior salesperson follows without thinking:
 
-All eight modules are complete in this repo: playbook, decision trees, 8 worked examples, 6 templates, edge-case library, dual-mode tools file, self-check, and 20 evals each.
+- It works from **your** studio fact sheet, portfolio, and rate card, not a generic studio.
+- It is instructed to **never invent** a fact, a client result, a price, or a term. Missing pieces are marked `[TO CONFIRM]` (your call to make) or `[UNVERIFIED]` (could not be checked), so you can see exactly what still needs you.
+- It **drafts, you decide**. Nothing is emailed, posted, or sent anywhere by the assistant on its own.
+- It is allowed to tell you **no**: no case study that fits means no outreach email; a client with no real reason to buy gets a "walk away" recommendation, not a pep talk.
 
-Vertical layers, all built: **Packaging**, **Brand & Product Design**, **Fashion**, **Agencies** (in `verticals/`).
+## How it works (three steps)
 
-## Use a skill in 5 minutes
+1. **Tell it about your studio, once.** Fill in a one-page fact sheet (there is a filled-in sample in `start-here/`). About 15 minutes, one time.
+2. **Add the files to your AI assistant.** Upload the fact sheet, your industry file, and the files of the skill you need (its folder holds the main file plus its playbook; they work together) into a project or a chat. No setup, no code, nothing to install.
+3. **Ask for the job you need, in your own words.** "Research this brand." "Price this project." "The client says we are too expensive, help me reply." Starter sentences for every job are in `start-here/starter-prompts.md`.
 
-1. Open `skills/account-research-brief/` and read `SKILL.md`.
-2. Fill in the studio fact sheet in `templates/fact-sheet-template.md` (your positioning, portfolio strengths, ideal clients, deal sizes). Do this first, once.
-3. Save this repo somewhere your AI assistant can read (a Claude Project, a ChatGPT project, a folder in Cursor, or just paste the files into a chat).
-4. Paste `SKILL.md`, the playbook, and `verticals/packaging.md` into the project/context, plus your filled fact sheet.
-5. Give it a target brand and whatever you know. It will ask for what is missing before it researches, and every claim in the brief it returns carries a source and a date, or an `[UNVERIFIED]` mark.
+## Pick the job you need
 
-Setup guides for connected mode (Figma and friends) live in `setup-guides/`.
+| What you need today | Skill |
+|---|---|
+| Know if a brand is worth pitching | Account Research Brief |
+| Write a first email that fits that client | Portfolio-Matched Outreach |
+| Prepare for a first call, or make sense of one | Discovery Call Kit |
+| Turn your notes into a proposal or deck outline | Proposal and Deck Builder |
+| Price a project without guessing or giving work away | Scope and Pricing Architect |
+| Answer "too expensive," a discount demand, or procurement | Objection and Procurement Desk |
+| Turn a finished project into monthly ongoing work | Project-to-Retainer Converter |
+| Restart a stalled deal, or ask a happy client for an introduction | Revive and Referral |
+
+Every skill comes with the same backup, all written for the AI rather than for you to study: a detailed playbook, worked examples that start from messy real-world inputs (all fictional, all labelled), ready-to-use templates, answers for unusual situations, a final self-check the assistant runs before it answers you, and tests the files were checked against.
+
+**Industry files** (in `verticals/`) add your world's buyers, calendar, and pricing habits. All four are built: **Packaging**, **Brand and Product Design**, **Fashion**, **Agencies**.
+
+## Your other tools: two ways to work
+
+**The simple way is the normal way.** Copy and paste: the client email, your call notes, your price list, an exported list of pages from Figma. Every skill works fully this way.
+
+**The connected way is an optional extra.** If your assistant is connected to Figma, your CRM, or your documents, the skills can read from them directly, for example counting artwork files instead of you listing them. Studios with someone technical can set this up using the guides in `setup-guides/`. It is never required, and the suite never pretends a file can click inside an app by itself.
 
 ## Pricing
 
-- **Free:** Skill 1 (Account Research Brief) + the packaging layer, here.
-- **Solo / Founder, $179:** all 8 core skills, 1 vertical layer.
-- **Studio, $449:** all layers, team setup guide, proposal and SOW template library, 12 months of updates, up to 5 seats.
-- **Agency License, $990:** up to 15 seats, 2 update passes a year.
+- **Free:** Skill 1 (Account Research Brief) + the packaging industry file, here.
+- **Solo / Founder, $179:** all 8 skills, 1 industry file, for 1 person.
+- **Studio, $449:** everything in Solo, plus all industry files, the team setup guide, the proposal and statement of work (SOW) template library, and 12 months of updates, for up to 5 people.
+- **Agency License, $990:** everything in Studio, for up to 15 people, with 2 update passes a year (two refreshed editions of the files) instead of the 12-month window.
 
-No bespoke or done-for-you tier. This is a files product and stays one.
+One-time. Files, not a subscription. No app to learn. No bespoke or done-for-you tier.
 
-## Repo history
+## Honest limits
+
+- Research is only as live as your assistant. If it cannot browse the web on your plan, it works from what you paste in, and it is instructed to say so.
+- The assistant follows these instructions carefully, but it can still make mistakes. The files show their working and flag gaps so your check is fast. Always read a draft before it reaches a client.
+- Template contract wording is a starting draft for your own adviser, not legal advice.
+
+## Background
 
 This repo began as a general "AI skills for non-tech trades" pack (contractor bids, Airbnb hosting, wedding planning). That version was removed in October 2026. The project pivoted because one buyer with one expensive problem beats ten buyers with cheap ones.
 
 ## License
 
-MIT, see `LICENSE`. The free skills here are genuinely free to use in your studio. Paid tiers are separate downloads with their own license terms; nothing in the paid packs is required to make the free skill work.
+The free skill here is under the MIT license (see `LICENSE`) and is genuinely free to use in your studio. Paid tiers are separate downloads with their own license terms; nothing in the paid packs is required to make the free skill work.
