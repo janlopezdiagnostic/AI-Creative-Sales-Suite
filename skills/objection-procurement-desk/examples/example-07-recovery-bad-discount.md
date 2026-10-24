@@ -1,0 +1,30 @@
+# Example 7: Recovery, a Deal Saved After a Bad Discount
+
+All brands, people, and prices in this example are fictional and illustrative.
+
+## The studio (fictional rate sheet excerpt)
+Hartwell Studio. Discount authority: scope trades only, at every level below the founder. Rate movement requires the founder, in writing, recorded in the log exceptions register. Floor on this proposal: 16,200 in traded scope at unchanged rates.
+
+## Situation (from the negotiation log, reconstructed honestly)
+Proposal to Marlowe Pet Nutrition (fictional): 18,000 for a 12 SKU range redesign: strategy 2,000; masters 2 families 5,200; adaptations 10 SKUs 4,300; production liaison 1,800; project management 2,200; guidelines light 2,500.
+- At a trade event, the studio's junior account manager, meaning well, told the brand's founder: "18 is the headline, I am sure we can do 15 if you sign this month." No log entry was made.
+- Three weeks later the founder emailed the AE: "Great, let us go at 15,000 as discussed. Please send the paperwork for the full scope."
+- The AE discovered the conversation from the email. The discount is a rate cut of 3,000 (17 percent) on the full scope, outside authority, below the floor structure, and made by the studio, which makes it the studio's problem to fix, not the client's fault for believing it.
+
+## Reasoning
+Classify: the objection has not been raised yet; this is an error recovery, run on the principles of trees 2 and 5 and edge case 25 (your own team member concedes in the corridor).
+Diagnosis: Politics and face, on both sides. The client founder has told his team the price is 15,000 and will lose face if it simply returns to 18,000. The studio cannot honour a rate cut it cannot afford, and cannot disown its own employee's words without advertising internal disorder (edge case 25's warning). Lying about what was said is not available: the client heard it, and may have it in a note.
+The fix has three parts. First, internally: establish exactly what was said (the account manager, asked directly, confirmed the words), log it, and align the studio: one negotiating voice from today, and coaching, not blame, because punishing honesty about corridor mistakes guarantees the next one is hidden. Second, the restructure: reach 15,000 honestly at unchanged rates by trading scope worth 3,000: remove guidelines light (2,500) into a priced phase 2, and reduce production liaison to files plus handover call (saving 500 of the 1,800). The deliverables the client cares most about (strategy, masters, all 12 SKUs) survive intact. Third, the conversation: the AE takes it by phone, not email, and owns it as the studio's: "we quoted loosely at the event, here is the precise structure at the number you were given." The client keeps his 15,000 and his internal story ("the scope was phased"); the studio keeps its rate, its floor, and its credibility.
+
+## Output: call script (excerpt, as prepared for the AE)
+Opening: "Before paperwork, I owe you precision. At the event, [account manager] gave you 15,000 as a headline for this programme, and I am not going to pretend that conversation did not happen. What I have done is build the version of the programme that genuinely works at 15,000, because a number is only real if the scope behind it is."
+The structure: "Strategy, masters, and all twelve SKUs are in, unchanged, at our standard rates. Two things move to a phase 2, priced and dated: the guidelines document, and full production liaison, where you get files and a handover call now and can add the full support when print dates firm up. Phase 2 is 3,000 when you want it, at the same rates, and nothing about the launch depends on it."
+The close: "So the programme you take to your team is 15,000 now, full range delivered, with an optional 3,000 phase 2. That is the honest version of the number you were given, and I would rather build it properly with you than paper over it."
+Then: wait. (Script note: if he pushes for the original full scope at 15,000, the answer is the escalation line: "That specific version is above what I can agree on the spot; I will take it to our founder today and come back to you tomorrow with a final answer, one way or the other." It was not needed.)
+
+## Outcome (illustrative)
+The founder accepted the structure on the call, with visible relief: his number survived. The SOW issued at 15,000 with phase 2 documented as an option at fixed rates. Phase 2 was bought in full eleven weeks later during a difficult print run, which is to say the studio eventually earned the original 18,000 at its own rates, for real scope, with the relationship strengthened rather than spent.
+
+## Critique
+Strengths: the recovery protected three things at once: the rate (restructured, never cut), the client's face (his number held), and the studio's integrity (the corridor promise was owned, not denied). The log was corrected to show the verbal offer, the exception that was avoided, and the lesson, which is why this example exists.
+Watch outs: this recovery worked because 3,000 of genuine, removable scope existed. On a leaner proposal the honest options narrow to an escalated documented exception or a painful climb down, which is why the prevention (team alignment, one voice, authority written in the rate sheet) matters more than the cure. Note also what the AE did not do: blame the account manager to the client. The words "he was not authorised" appear nowhere, because they help nobody and invite the client to shop for softer voices forever after.

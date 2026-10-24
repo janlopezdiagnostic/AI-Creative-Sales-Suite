@@ -1,6 +1,6 @@
 # Setup Guide: Figma (Connected Mode)
 
-What this unlocks: the suite's skills can read your Figma files directly, page structure, frames, components, variables/tokens, and comments, instead of working from screenshots and exports. The Scope & Pricing Architect uses this to count deliverables and judge complexity. The research and proposal skills use it to audit pitch files and summarise client feedback threads.
+What this unlocks: the suite's skills can read your Figma files directly, page structure, frames, components, variables/tokens, and comments, instead of working from screenshots and exports. The Scope and Pricing Architect uses this to count deliverables and judge complexity. The research and proposal skills use it to audit pitch files and summarise client feedback threads.
 
 Honest limits first: a skill file cannot log into Figma by itself. Connected mode works only when your AI assistant has a Figma integration installed and authorised by you. Capabilities differ by route and change over time; the test prompt at the bottom tells you in 30 seconds whether yours is live and what it can see. Last verified: Oct 24, 2026 (routes below existed; exact read scopes vary, re-run the test after any tool update).
 

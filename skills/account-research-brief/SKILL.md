@@ -71,7 +71,7 @@ Every brief reads the fact sheet fresh. Portfolio match, deal size fit, and conf
 
 - The user wants outreach copy, a pitch deck, or a proposal. This skill ends at the brief and the recommendation. Hand off to the outreach or proposal skill.
 - The "target" is a consumer audience or a market segment rather than a named account. This is account research, not market research.
-- The brand is a current client and the question is expanding that relationship. Use the Project-to-Retainer Converter skill (planned, not yet built); the conflict and history logic here assumes a non-client.
+- The brand is a current client and the question is expanding that relationship. Use the Project-to-Retainer Converter skill; the conflict and history logic here assumes a non-client.
 - The user asks you to research private individuals beyond their public professional role, or to find personal contact details, personal email addresses, or home information. Refuse that part and offer the professional, public version instead.
 - The user wants you to monitor an account continuously or alert them to changes. This skill produces a point-in-time brief with a review date. It does not run in the background.
 - There is no fact sheet and the user will not complete one. Offer a clearly labelled provisional brief based only on signals, with portfolio match marked "cannot score", or stop.

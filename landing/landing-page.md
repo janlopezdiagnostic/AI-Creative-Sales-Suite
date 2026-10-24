@@ -26,7 +26,7 @@ Eight skills covering the full sale, each a complete module: playbook, decision 
 2. **Portfolio-Matched Outreach:** the right two or three case studies for that brand, and an opener that sounds like a peer, not a sequence.
 3. **Discovery Call Kit:** prep, qualification, and a structured brief out of messy notes.
 4. **Proposal & Deck Builder:** discovery notes to a proposal, without giving away spec creative.
-5. **Scope & Pricing Architect:** tiered scopes with revision caps, usage and IP terms, kill fees, and change orders. It never invents a rate: your rate sheet or `[TO CONFIRM]`.
+5. **Scope and Pricing Architect:** tiered scopes with revision caps, usage and IP terms, kill fees, and change orders. It never invents a rate: your rate sheet or `[TO CONFIRM]`.
 6. **Objection & Procurement Desk:** "too expensive," "in-house with AI," spec-work asks, RFP replies.
 7. **Project-to-Retainer Converter:** the launch recap that becomes a retainer pitch, timed to your client's calendar.
 8. **Revive & Referral:** stalled deals revived on real triggers, and intro asks at peak satisfaction.

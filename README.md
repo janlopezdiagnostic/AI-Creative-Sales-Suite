@@ -18,16 +18,18 @@ Each skill is a complete working module, not a single prompt: a core instruction
 
 | # | Skill | Status |
 |---|---|---|
-| 1 | Account Research Brief | **In this repo (free)** |
-| 2 | Portfolio-Matched Outreach | Planned |
-| 3 | Discovery Call Kit | Planned |
-| 4 | Proposal & Deck Builder | Planned |
-| 5 | Scope & Pricing Architect | **Built (validation)**; ships in paid tiers at launch |
-| 6 | Objection & Procurement Desk | Planned |
-| 7 | Project-to-Retainer Converter | Planned |
-| 8 | Revive & Referral | Planned |
+| 1 | Account Research Brief | **Built. Free in this repo** |
+| 2 | Portfolio-Matched Outreach | **Built** |
+| 3 | Discovery Call Kit | **Built** |
+| 4 | Proposal & Deck Builder | **Built** |
+| 5 | Scope and Pricing Architect | **Built** |
+| 6 | Objection & Procurement Desk | **Built** |
+| 7 | Project-to-Retainer Converter | **Built** |
+| 8 | Revive & Referral | **Built** |
 
-Vertical layers: **Packaging** (in this repo), Brand & Product Design (next), Fashion, Agencies.
+All eight modules are complete in this repo: playbook, decision trees, 8 worked examples, 6 templates, edge-case library, dual-mode tools file, self-check, and 20 evals each.
+
+Vertical layers, all built: **Packaging**, **Brand & Product Design**, **Fashion**, **Agencies** (in `verticals/`).
 
 ## Use a skill in 5 minutes
 

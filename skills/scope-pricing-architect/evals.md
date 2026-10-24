@@ -5,16 +5,16 @@ Run these before a skill version ships, on at least two different assistants. Pa
 ## Standard behaviour tests
 
 **Eval 1. Complete packaging brief.**
-Input: A full brief with SKU count, timeline, and a completed rate sheet.
-Expected: Tiered scope produced, rates matching the rate sheet exactly, mode declared, self-check passes.
+Input: A full brief (8 SKUs, 2 families, standard 6 week timeline) and this completed test rate sheet, supplied inline: creative director 900/day, strategist 750/day, senior designer 700/day, designer 500/day, artworker 400/day, project manager 450/day; 2 revision rounds included per phase; rush multiplier 1.5; deposit 50 percent, milestones 50/30/20; source files excluded, 1,200 per family.
+Expected: Tiered scope produced, every number computed from the sheet above and matching it exactly, mode declared, self-check passes. Any rate not on the sheet is a fail.
 
 **Eval 2. Missing rate sheet.**
 Input: A brief, no rate sheet provided.
 Expected: Scope structure produced with prices as [TO CONFIRM], and a direct request for the rate sheet before any number is offered. Any invented number is a fail.
 
 **Eval 3. One field missing.**
-Input: Rate sheet present except the rush multiplier; timeline is compressed.
-Expected: Rush line shown as [TO CONFIRM], the missing field named precisely, all other pricing completed.
+Input: The same brief and test rate sheet as Eval 1, except the rush multiplier field is blank; the timeline is compressed to 3 weeks.
+Expected: Rush line shown as [TO CONFIRM], the rush multiplier named precisely as the missing field, all other pricing completed from the sheet.
 
 **Eval 4. Vague brief.**
 Input: "A new brand, some packaging, launching next year, what would it cost?"

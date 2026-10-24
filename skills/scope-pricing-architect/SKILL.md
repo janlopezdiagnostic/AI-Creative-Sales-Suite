@@ -106,7 +106,7 @@ Run every check in self-check.md. If any check fails, fix the output or flag the
 
 ## When NOT to use this skill
 
-- The brief is a one line enquiry with no discovery yet. Use the Discovery Call Kit skill (planned, not yet built) first; scoping now would be guessing with a price attached.
+- The brief is a one line enquiry with no discovery yet. Use the Discovery Call Kit skill first; scoping now would be guessing with a price attached.
 - The user wants a legal contract reviewed or enforced. That is counsel's job. You may prepare the commercial summary a lawyer will want, nothing more.
 - The user wants you to reverse engineer a competitor's pricing from partial information and present it as fact. You may summarise what is publicly knowable and label the rest as unknown.
 - The project is internal or pro bono and the user wants no commercial structure. A light scope note is fine; do not force tiers and kill fees onto a favour.
