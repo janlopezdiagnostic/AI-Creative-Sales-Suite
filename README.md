@@ -52,7 +52,7 @@ No bespoke or done-for-you tier. This is a files product and stays one.
 
 ## Repo history
 
-This repo began as a general "AI skills for non-tech trades" pack (contractor bids, Airbnb hosting, wedding planning). That version is preserved under `archive/v1-trades/`. The project pivoted because one buyer with one expensive problem beats ten buyers with cheap ones.
+This repo began as a general "AI skills for non-tech trades" pack (contractor bids, Airbnb hosting, wedding planning). That version was removed in October 2026. The project pivoted because one buyer with one expensive problem beats ten buyers with cheap ones.
 
 ## License
 
