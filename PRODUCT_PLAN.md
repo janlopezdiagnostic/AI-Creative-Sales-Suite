@@ -2,7 +2,7 @@
 
 Internal. This repo stays private while this file lives in it: it contains pricing logic, margins, and kill criteria. Before any public release, this file moves out and paid-tier skills move to the paid download.
 
-Approved direction (Oct 24, 2026): refactor from the v1 non-tech trades pack (archive removed Oct 24, 2026 at the owner's direction) to a B2B sales AI suite for creative services. Beachhead vertical: **packaging**. Binding constraints from the approved proposal: the depth standard and dual-mode tooling spec are ship criteria, not aspirations; no bespoke/done-for-you tier; files only, under 3 hrs/week ongoing.
+Approved direction (Oct 24, 2026): a B2B sales AI suite for creative services. Beachhead vertical: **packaging**. Binding constraints from the approved proposal: the depth standard and dual-mode tooling spec are ship criteria, not aspirations; no bespoke/done-for-you tier; files only, under 3 hrs/week ongoing.
 
 ## Buyer
 
@@ -79,7 +79,7 @@ Still outstanding before paid launch: (a) a second-assistant eval run for the se
 
 ## Validation plan (current phase)
 
-Build order as executed: archive v1 (done; archive later removed), README + this plan (done), all 8 skills to the full depth standard with all 4 vertical layers (done, owner directed the full build on Oct 24), coworker verification (Claude Opus + Gemini) across all modules (done), landing page copy (done). Next phase is outreach and the remaining gate items above.
+Build order as executed: README + this plan (done), all 8 skills to the full depth standard with all 4 vertical layers (done, owner directed the full build on Oct 24), coworker verification (Claude Opus + Gemini) across all modules (done), landing page copy (done). Next phase is outreach and the remaining gate items above.
 
 - Outreach: 25-40 personal LinkedIn messages/week to founders and biz-dev leads at 5-25 person packaging/brand studios, offering a free teardown (their last cold email, or a scope review on a live brief) for 15-20 minutes of feedback.
 - Budget: $60-80 (landing page/domain, maybe one month of LinkedIn Premium). $100+ of the $200 cap stays in reserve. No ads.

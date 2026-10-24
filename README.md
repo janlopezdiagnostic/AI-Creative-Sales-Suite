@@ -70,10 +70,6 @@ One-time. Files, not a subscription. No app to learn. No bespoke or done-for-you
 - The assistant follows these instructions carefully, but it can still make mistakes. The files show their working and flag gaps so your check is fast. Always read a draft before it reaches a client.
 - Template contract wording is a starting draft for your own adviser, not legal advice.
 
-## Background
-
-This repo began as a general "AI skills for non-tech trades" pack (contractor bids, Airbnb hosting, wedding planning). That version was removed in October 2026. The project pivoted because one buyer with one expensive problem beats ten buyers with cheap ones.
-
 ## License
 
 The free skill here is under the MIT license (see `LICENSE`) and is genuinely free to use in your studio. Paid tiers are separate downloads with their own license terms; nothing in the paid packs is required to make the free skill work.
