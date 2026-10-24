@@ -1,63 +1,57 @@
-# AI Skills for Non-Tech Trades
+# Creative Sales Suite
 
-Reusable AI skills for people who run real-world businesses, not software.
+AI skills for the people who sell creative work: sales executives, account executives, founders, and biz-dev leads at packaging studios, brand and product design firms, fashion studios, and creative agencies.
 
-Most AI "skills," prompt packs, and assistant playbooks are built for coders and marketers. Very few are written for the operators who could save the most time with AI, contractors, Airbnb hosts, wedding planners, realtors, teachers, restaurant owners, photographers, and the ones that exist are usually generic prompt lists, not trade playbooks. This repo is that playbook, one skill at a time.
+Selling creative services is not SaaS selling. Deals are portfolio-led, scoping is bespoke, IP and usage rights are real money, procurement tries to buy taste by the day, and growth means turning one project into a retainer. Generic sales prompts handle none of that. This suite does.
 
-## What is a skill here?
+## How it works
 
-A skill is a folder of plain files that turns a general AI assistant (ChatGPT, Claude, Gemini) into a trade-specific one:
+Each skill is a complete working module, not a single prompt: a core instruction file, a full playbook, decision trees, worked examples from messy, realistic inputs (every example is fictional and labelled as such), copy-ready templates, an edge-case library, tool procedures, a self-check the AI runs before it answers, and evaluation tests.
 
-- `SKILL.md` - the standing instructions: the job, the step-by-step workflows, the guardrails, the output format. It starts with a **fact sheet you fill in once** (your business, your rates, your rules), so every output is specific to *your* business instead of generic.
-- `examples/` - a realistic messy input and the finished output, so you can see the result before you trust it.
+**Core + vertical.** Eight core skills cover the full sales cycle. A short vertical layer file per industry (packaging first) adds the vocabulary, buyer roles, deal shapes, and calendars of that world. You load the core skill plus your layer.
 
-Outputs mark anything the AI did not actually know as `[TO CONFIRM]`. That tag means: check and fill this in before you send anything.
+**Dual-mode tooling.** Skills know the trade's tools, Figma first. In *connected mode*, if your AI assistant has the tool's connector or MCP server installed, the skill directs it to read live material (a Figma file's structure, components and comments; your CRM pipeline; your rate card in Notion). In *manual mode*, the skill tells you exactly what to export or paste instead. Every skill states which mode it is running in. A file pack cannot click inside an app by itself, and this one never pretends otherwise.
 
-You are not paying for prompts. You are paying for the trade judgment written into the files: the exclusions a contractor forgets, the buffer math a planner does in her head, the platform policy triggers a host has learned the hard way.
+**Two standing rules.** (1) Read first, write only with your confirmation: anything outward (an email, a CRM update, a Figma comment, a contract send) is drafted for your approval, never sent silently. (2) The AI never invents facts, signals, rates, or terms. Two bracketed markers make the gaps visible instead: `[UNVERIFIED]` for a fact or signal it could not source (used by the research skill), and `[TO CONFIRM]` for a rate, term, or decision only you can supply (used by the scoping skill and the vertical layers).
 
-## Starter skills (free, lite versions)
+## The suite (8 skills)
 
-| Skill | The job it does | Status |
+| # | Skill | Status |
 |---|---|---|
-| [Contractor Bid](skills/contractor-bid/) | Rough site notes or a voice memo in, a professional itemized proposal out, with scope exclusions and change-order language | Lite v0.1 |
-| [Airbnb Host](skills/airbnb-host/) | Guest messages, review replies, and damage-claim drafts that cite your own house rules and listing facts instead of accidentally admitting fault | Lite v0.1 |
-| [Wedding Planner](skills/wedding-planner/) | A client intake in, a minute-by-minute run-of-show with realistic buffers out, plus per-vendor briefs | Lite v0.1 |
+| 1 | Account Research Brief | **In this repo (free)** |
+| 2 | Portfolio-Matched Outreach | Planned |
+| 3 | Discovery Call Kit | Planned |
+| 4 | Proposal & Deck Builder | Planned |
+| 5 | Scope & Pricing Architect | **Built (validation)**; ships in paid tiers at launch |
+| 6 | Objection & Procurement Desk | Planned |
+| 7 | Project-to-Retainer Converter | Planned |
+| 8 | Revive & Referral | Planned |
 
-More industries are scored in [ideas/BACKLOG.md](ideas/BACKLOG.md).
+Vertical layers: **Packaging** (in this repo), Brand & Product Design (next), Fashion, Agencies.
 
-## How to use a skill (60 seconds)
+## Use a skill in 5 minutes
 
-1. Open the skill's `SKILL.md` (use the "Raw" view on GitHub) and copy the whole file into a notes app or text box you can edit.
-2. Fill in the **Setup (once)** lines at the top with your own details (your business, your rates, your rules) *before* you paste anything into the AI. This filled-in version is your personal copy; keep it.
-3. Open your AI assistant (ChatGPT, Claude, or Gemini), start a Project, custom GPT, Gem, or a fresh conversation for your trade, and paste your filled-in file as the instructions or first message. Some of these features need a paid plan or a desktop browser.
-4. In the next message, run one of the workflows from the file with your real input: a voice memo transcript, a guest message, a client intake.
+1. Open `skills/account-research-brief/` and read `SKILL.md`.
+2. Fill in the studio fact sheet in `templates/fact-sheet-template.md` (your positioning, portfolio strengths, ideal clients, deal sizes). Do this first, once.
+3. Save this repo somewhere your AI assistant can read (a Claude Project, a ChatGPT project, a folder in Cursor, or just paste the files into a chat).
+4. Paste `SKILL.md`, the playbook, and `verticals/packaging.md` into the project/context, plus your filled fact sheet.
+5. Give it a target brand and whatever you know. It will ask for what is missing before it researches, and every claim in the brief it returns carries a source and a date, or an `[UNVERIFIED]` mark.
 
-No code. No install. Works from a phone.
+Setup guides for connected mode (Figma and friends) live in `setup-guides/`.
 
-## Free vs. paid
+## Pricing
 
-This repo is the free, lite layer: the core skill, one hero example per trade, plain markdown.
+- **Free:** Skill 1 (Account Research Brief) + the packaging layer, here.
+- **Solo / Founder, $179:** all 8 core skills, 1 vertical layer.
+- **Studio, $449:** all layers, team setup guide, proposal and SOW template library, 12 months of updates, up to 5 seats.
+- **Agency License, $990:** up to 15 seats, 2 update passes a year.
 
-The paid **Pro Pack** (planned, $39-59 for the first three trades, Etsy + Gumroad) adds depth over the lite versions in this repo:
+No bespoke or done-for-you tier. This is a files product and stays one.
 
-- The full prompt library (8-12 per trade, including the awkward ones: full change-order and follow-up sequences, angry clients, edge cases)
-- The full guardrail libraries (exclusion clauses by trade, policy citation sets, complete buffer tables), where the lite version carries a starter set
-- Ready-to-use formats: printable PDFs, Google Docs / Notion versions, phone shortcuts
-- A 2-page visual setup guide and a short walkthrough video
-- 1-2 update passes per year when platforms or rules change
+## Repo history
 
-See [PRODUCT_PLAN.md](PRODUCT_PLAN.md) for pricing, the under-$200 validation test, and the kill criteria.
-
-## Ground rules baked into every skill
-
-- **Drafting aid, not advice.** Nothing here is legal, tax, medical, or financial advice. Contract and negotiation outputs are drafts to review, not documents to sign blind.
-- **No invented facts.** A skill must ask for missing inputs or mark them `[TO CONFIRM]` instead of hallucinating prices, dates, or policy.
-- **Human sends it.** Skills draft; the operator reviews and sends. Nothing auto-sends to a client, guest, or platform.
+This repo began as a general "AI skills for non-tech trades" pack (contractor bids, Airbnb hosting, wedding planning). That version is preserved under `archive/v1-trades/`. The project pivoted because one buyer with one expensive problem beats ten buyers with cheap ones.
 
 ## License
 
-The lite skills in this repo are MIT licensed (see `LICENSE`). Use them, adapt them, share them. The Pro Pack libraries are a separate commercial product.
-
-## Contributing
-
-Run a trade we have not covered? Open an issue with: the recurring job that eats your time, a real (anonymized) example input, and what a good output looks like. The backlog is ranked by pain, willingness to pay, and how well the job demos in 60 seconds.
+MIT, see `LICENSE`. The free skills here are genuinely free to use in your studio. Paid tiers are separate downloads with their own license terms; nothing in the paid packs is required to make the free skill work.
