@@ -51,6 +51,16 @@ The primary customer is a founder or sales lead who is expert in clients and new
 - The fact sheet is the only homework, it ships with a filled-in fictional sample, and a starter prompt lets the assistant interview the buyer to complete it.
 - Claims are softened to what the files can honestly do: the assistant is instructed never to invent and to mark gaps; copy says drafts are checked by the buyer before anything reaches a client.
 
+## How the tiers are gated (decided Oct 24, 2026)
+
+There is no technical lock on the files, by design: the product promise is "files, not a subscription, nothing phones home," and plain text cannot be metered once downloaded. Gating works three ways instead:
+
+1. **Different bundles.** Each tier is a separate Gumroad product with its own files. Solo never receives the other industry files or the template library, so there is nothing to unlock.
+2. **Updates flow by tier.** Studio's 12 months of updates and Agency's 2 passes a year are delivered through Gumroad to the purchasing accounts of those products only. A shared or stale copy falls behind.
+3. **Seats are contractual.** Each bundle ships its tier license (`licenses/` in this repo): Solo 1 person, Studio 5, Agency 15, no redistribution or resale in any tier. Gumroad issues a license key per purchase; the key is what we ask for on support requests and update eligibility. At these prices, buyers who need the paper trail buy the right tier.
+
+Explicitly not doing: license checks inside the skill files, DRM or encrypted wrappers, telemetry, an updater script at launch, seat audits. All of them tax paying customers, break the positioning, or eat the 3 hrs/week ops budget.
+
 ## Channels
 
 B2B buyers do not browse Etsy. Channels are: LinkedIn outreach to studio founders and biz-dev leads, teardown content (before/after scope reviews and outreach rewrites), the free GitHub repo as the credibility asset, and a Gumroad storefront plus a one-page site (Carrd) for the paid tiers. Coach/consultant partnerships (agency new-business coaches) are a later affiliate channel.
@@ -61,7 +71,11 @@ The full suite is built: all 8 core skills as complete modules (168 files), all 
 
 ## Quality gate status (honest, updated Oct 24, 2026)
 
-Structural lint passed for all 8 modules (file trees and counts verified programmatically; 8 examples and 6 templates per skill; playbooks in range). For Skills 1 and 5: example arithmetic independently recomputed by two reviewers (Claude and Gemini), errors found and fixed; eval spot-runs completed (research 8/8 on a sampled set including all hostile cases; scope 10/12 with the 2 misses traced to defective test fixtures, which were fixed, and all 8 integrity cases passing). All 8 modules then received a full coworker verification pass. Still outstanding before paid launch, unchanged: (a) full 20-case eval runs per skill on 2+ assistants with the pass bar met, (b) practitioner review at 4/5 or better, (c) tool tests in connected mode on live accounts.
+Structural lint passed for all 8 modules (file trees and counts verified programmatically; 8 examples and 6 templates per skill; playbooks in range). Example arithmetic across the suite was independently recomputed by two reviewers (Claude and Gemini), errors found and fixed.
+
+**Eval runs (Oct 24, 2026): complete for this pass.** All 8 skills ran their full 20-case eval sets: 160 cases, 160 passes after one re-run, zero invented-fact failures, zero integrity-case failures. Full scorecard with method and caveats: kept with the run files outside this repo (ask the owner). Caveats that remain true: test responses were compact behaviour summaries rather than full deliverables (one hostile case re-run in full to close a completeness gap); each skill ran on one assistant in this pass, not two (Antigravity hit its plan quota mid-session, so Claude ran seven skills and Gemini one); grading was by AI reviewers against the written expected behaviours.
+
+Still outstanding before paid launch: (a) a second-assistant eval run for the seven Claude-tested skills, (b) practitioner review at 4/5 or better, (c) tool tests in connected mode on live accounts.
 
 ## Validation plan (current phase)
 
