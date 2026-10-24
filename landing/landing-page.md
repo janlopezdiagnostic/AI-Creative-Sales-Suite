@@ -62,7 +62,7 @@ Plus an industry file for your world: packaging, brand and product design, fashi
 
 The normal way to use the suite is copy and paste: the client email, the call notes, the price list. It works fully that way.
 
-If your studio is more technical, the assistant can also read from Figma, your CRM, or your documents directly once connected. That is an optional extra with its own guides. It is not needed, and it is not the pitch.
+If your studio is more technical, the assistant can also read from your design app, your CRM, or your documents directly once connected. That is an optional extra with its own setup guide. It is not needed, and it is not the pitch.
 
 ## Pricing
 

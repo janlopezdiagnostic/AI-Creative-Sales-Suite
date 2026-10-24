@@ -1,6 +1,6 @@
 # Setup Guide: Environment Matrix
 
-Which assistant setups run the suite, and what each can do out of the box. Capabilities change fast; this table is dated Oct 24, 2026 and each tool guide carries its own last-verified date. When in doubt, run that guide's test prompt: it tells you the truth about your setup in 30 seconds.
+Which assistant setups run the suite, and what each can do out of the box. Capabilities change fast; this table is dated Oct 24, 2026. When in doubt, run the test prompt in `connecting-your-tools.md`: it tells you the truth about your setup in 30 seconds.
 
 ## The two modes, everywhere
 
@@ -11,7 +11,7 @@ Which assistant setups run the suite, and what each can do out of the box. Capab
 
 | Assistant setup | Manual mode | Connected mode | Notes |
 |---|---|---|---|
-| Claude (web/desktop app, Projects) | Yes: add skill files to a Project | Yes: connectors directory (Figma, Notion, Drive and more), enable per Project/chat | Best default for this suite. Keep one Project per client account for research work. |
+| Claude (web/desktop app, Projects) | Yes: add skill files to a Project | Yes: connectors directory (Notion, Drive, design tools and more), enable per Project/chat | Best default for this suite. Keep one Project per client account for research work. |
 | Claude Code / agent environments | Yes: files in the working folder | Yes: MCP servers configured per environment; REST tokens via secret store | Strongest for batch eval runs and multi-file work. |
 | ChatGPT (Projects / custom GPTs) | Yes: upload skill files to a Project | Partial: connectors/apps vary by plan; MCP support is rolling out across plans | Run each tool's test prompt from the connecting guide; where a connection fails, run that tool in manual mode and keep connected mode for what works. |
 | Cursor | Yes: files in the workspace | Yes: MCP servers (commonly configured here for design tools, CRMs, and docs) | Good if your studio already lives in Cursor for web/product work. |

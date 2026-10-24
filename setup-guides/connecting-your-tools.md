@@ -37,10 +37,12 @@ Manual fallback: paste the deal list or export it as a spreadsheet.
 ### Finding and checking contacts
 *Examples: Apollo, Clay, LinkedIn Sales Navigator.*
 Rules that do not bend: Sales Navigator is manual only, always (you paste or export; the assistant analyses). Enrichment tools are read-only verification: the suite checks details you already hold, it does not harvest lists, and it never scrapes anything.
+Manual fallback: paste the contact or company details you already hold, and the suite checks them against the material you provide.
 
 ### Proposals and signing
 *Examples: PandaDoc, DocuSign, or PDFs from your documents.*
 What the suite reads: proposal status, who has viewed or signed, redline comments. Creating a draft inside these tools counts as a write and needs your confirmation, like any other send.
+Manual fallback: upload the proposal PDF and paste the status or comments from the signing tool.
 
 ### Boards and workshops
 *Examples: Miro, FigJam.*

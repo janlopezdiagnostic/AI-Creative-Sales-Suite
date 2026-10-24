@@ -39,9 +39,9 @@ Use the starter sentences in `start-here/starter-prompts.md`. For example: "Rese
 
 ## Two ways to work with your other tools
 
-**The simple way (start here).** Copy and paste. Export the Figma page list, paste the client email, drop in your price list as a file. Every skill works fully this way, and for most studios it is all they ever need.
+**The simple way (start here).** Copy and paste. Export a page list from your design app, paste the client email, drop in your price list as a file. Every skill works fully this way, and for most studios it is all they ever need.
 
-**The connected way (optional, later).** If your assistant is connected to the tools you already use (your client tracker, your documents, your design app), the skills can read from them directly, for example counting the pages in a design file instead of you listing them. This is a bonus for studios with someone technical to set it up. It is never required, and the guides for it live in `setup-guides/` for when you want them.
+**The connected way (optional, later).** If your assistant is connected to the tools you already use (your client tracker, your documents, your design app), the skills can read from them directly, for example counting the pages in a design file instead of you listing them. This is a bonus for studios with someone technical to set it up. It is never required, and the guide for it lives in `setup-guides/` for when you want it.
 
 ## Words we use, translated
 

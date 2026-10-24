@@ -22,7 +22,7 @@ Manual mode:
 
 Never: log another client's terms into this client's record, record a verbal maybe as a commitment stage, or set a follow-up date the user has not agreed.
 
-## Design files (guardianship audits: Figma, Adobe Creative Cloud, Sketch)
+## Design files (guardianship audits: Adobe Creative Cloud, Affinity, Figma, Sketch)
 
 What it is for here: evidencing the state of the system the retainer would guard: the delivered brand or packaging files, component libraries, artwork templates, and what has drifted since handover.
 

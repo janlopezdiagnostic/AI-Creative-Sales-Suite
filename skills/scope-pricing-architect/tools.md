@@ -9,9 +9,9 @@ Every output must declare its mode and what was actually seen. Never imply live 
 
 Exact connector capabilities change as vendors update them. Verify current scope at setup time; the procedures below describe what to read and why, not a guarantee of a vendor's current API surface.
 
-## Design files (Figma, Adobe Creative Cloud, Affinity, Sketch)
+## Design files (Adobe Creative Cloud, Affinity, Figma, Sketch)
 
-Tool-neutral by design: this procedure is the same whatever the studio designs in. Figma is the worked example below because its connectors are the most common, not because the skill prefers it.
+Tool-neutral by design: this procedure is the same whatever the studio designs in. The steps name the material generically (pages, components, comments); they work the same in any of these tools.
 
 Purpose in this skill: count deliverables and judge complexity from the real files, not the client's summary of them.
 

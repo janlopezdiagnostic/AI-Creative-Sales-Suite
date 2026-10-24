@@ -9,7 +9,7 @@ Every output must declare its mode and what was actually seen. Never imply live 
 
 Exact connector capabilities change as vendors update them. Verify current scope at setup time; the procedures below describe what to read and why, not a guarantee of a vendor's current API surface.
 
-## Design and deck files (Figma and Figma Slides, Adobe Creative Cloud, Keynote and PowerPoint exports)
+## Design and deck files (Adobe Creative Cloud, Affinity, Figma and Figma Slides, Sketch; Keynote and PowerPoint via exports)
 
 Tool-neutral by design: the procedure is the same whatever the studio builds decks and case files in. Figma is named where a step depends on a feature its connectors expose.
 
