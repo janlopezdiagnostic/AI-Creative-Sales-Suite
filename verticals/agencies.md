@@ -20,7 +20,7 @@ Load this file alongside any core skill when the seller is a multi-discipline cr
 ## Calendars and timing signals
 
 - **Annual planning:** most large clients set marketing budgets and roster plans in a fixed annual cycle, commonly closing in the autumn for the following year `[VERIFY PER CLIENT]`. AOR ambitions raised after planning closes wait a year or arrive underfunded. Ask when planning closes before proposing retainer shapes.
-- **Pitch cycles:** pitches cluster around contract expiries, CMO arrivals, and planning season. A CMO appointment is again the highest-receptivity window (first 90 days, a practitioner rule of thumb), and roster reviews are often announced to incumbents before the market hears anything, so relationship coverage of existing clients is also a timing skill.
+- **Pitch cycles:** pitches cluster around contract expiries, CMO arrivals, and planning season. A CMO appointment is again the highest-receptivity window (the first 90 days, strongest roughly days 14 to 90, a practitioner rule of thumb), and roster reviews are often announced to incumbents before the market hears anything, so relationship coverage of existing clients is also a timing skill.
 - **Roster and panel reviews:** formal reviews run on the client's cycle (often every 2-3 years for panels). Incumbency is an advantage only if the account has been visibly maintained; quiet accounts get reviewed out.
 - **Intermediary calendars:** search consultants run processes to published timetables: RFI, chemistry, shortlist, pitch, appointment, with weeks between stages. Missing an RFI deadline by a day ends the pursuit regardless of fit.
 

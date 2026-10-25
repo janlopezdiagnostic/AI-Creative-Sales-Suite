@@ -31,13 +31,13 @@ Signals checked and rejected: [Anything looked for and not found, or found and d
 
 ## Fit scores
 
-| Dimension | Score (0-3) | Basis |
-|-----------|-------------|-------|
-| Signal strength (Tree 1) | | |
-| Portfolio match (Tree 2) | | [Named proof from the fact sheet, or the gap named plainly] |
-| Deal size fit | | [Estimated range, labelled as an estimate] |
-| Timing (Tree 3) | | |
-| **Total** | **/9 on the three fit dimensions** | |
+| Dimension | Score | Basis |
+|-----------|-------|-------|
+| Signal strength (Tree 1) | [STRONG / MODERATE / WEAK / STALE / NONE, graded, not scored] | |
+| Portfolio match (Tree 2) | [0-3] | [Named proof from the fact sheet, or the gap named plainly] |
+| Deal size fit | [0-3] | [Estimated range, labelled as an estimate] |
+| Timing (Tree 3) | [0-3] | |
+| **Total** | **/9, from the three fit dimensions only (portfolio match, deal size, timing)** | |
 
 ## Stakeholder map
 

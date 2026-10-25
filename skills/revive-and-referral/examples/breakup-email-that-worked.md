@@ -2,17 +2,17 @@
 
 All brands, people, and events in this example are fictional. Facts are invented for training so the method can be judged without real company data.
 
-**Scenario:** Fenwick & Co. (fictional), a home fragrance brand, received a proposal for seasonal packaging five months ago. Meetings were friendly, the proposal was acknowledged, then silence. One value-add touch (a trend note on refill formats in their category, sourced and dated) was sent two months ago and unanswered. The trigger watch since then produced nothing gradeable.
+**Scenario:** Fenwick & Co. (fictional), a home fragrance brand, received a proposal for seasonal packaging five months ago. Meetings were friendly, the proposal was acknowledged, then silence. Two value-add touches were sent and went unanswered: a trend note on refill formats in their category (sourced and dated) three months ago, and a shorter follow-up with a dated retailer listing change one month ago. The trigger watch since then produced nothing gradeable.
 
 ## Raw input (as received)
 
-> "Fenwick has gone completely quiet. One proper touch already sent, nothing back. I think it is breakup time. Draft it. History is all in the tracker if you pull it up."
+> "Fenwick has gone completely quiet. Two proper touches already sent, nothing back. I think it is breakup time. Draft it. History is all in the tracker if you pull it up."
 
 ## Reasoning
 
 - Tree 4: CLEAR. Silence only; no no, no conflict, no opt-out.
-- Cadence check: one value-add touch is on record, logged with its date. The breakup email is the correct next and final step per Tree 1's no-decision play. A third ordinary touch would violate the cadence rule and train the client that the studio's emails carry no information.
-- Drafting: Template B structure (breakup template), four lines at most. The real last exchange and its month come from the tracker. No case study sneaks in. The assumption is stated as the studio's genuine position: if nobody sends this, the account moves to parked permanently, not to a monthly chase.
+- Cadence check: two value-add touches are on record, both logged with their dates, both unanswered, and no new trigger has fired. The breakup email is the correct next and final step per Tree 1's no-decision play. A third ordinary touch would violate the cadence rule and train the client that the studio's emails carry no information.
+- Drafting: the breakup template (templates/breakup-email.md), four lines at most. The real last exchange and its month come from the tracker. No case study sneaks in. The assumption is stated as the studio's genuine position: if nobody sends this, the account moves to parked permanently, not to a monthly chase.
 
 ## Final output (draft, for the user's confirmation)
 

@@ -25,7 +25,7 @@ Wrong move: Defending the rate line by line or discounting to close the spreadsh
 **5. Unpaid pitch invitation**
 Trigger: A polished RFP asking several studios for free creative.
 Right move: Run decision tree 2. Offer paid discovery. If pitching, scope and protect the pitch itself.
-Wrong move: Producing full routes for free because the brand is famous. Fame is not a payment method.
+Wrong move: Producing full routes for free because the brand is famous. A famous name does not pay the invoice.
 
 **6. Equity or exposure offer**
 Trigger: A startup offers equity, or a brand offers exposure, instead of fees.
@@ -94,7 +94,7 @@ Wrong move: Full scope at a fame discount with no case study rights secured.
 
 **19. Competitor undercut claim**
 Trigger: "Another studio quoted 40 percent less."
-Right move: Ask what their quote includes, walk your deliverables list, offer the matching reduced scope at a matching price. Many undercut quotes are smaller scopes wearing a bigger scope's clothes.
+Right move: Ask what their quote includes, walk your deliverables list, offer the matching reduced scope at a matching price. Many undercut quotes are smaller scopes presented as if they covered the same work.
 Wrong move: Matching the number blind on an unchanged scope.
 
 **20. Free work for a charity arm or founder's side project**

@@ -21,10 +21,10 @@ Each signal below is described the same way: what it is, why it creates creative
 ### 2. New CMO, brand lead, or creative director
 
 **What:** A senior marketing or brand hire, especially from outside the company.
-**Why it buys:** New leaders review agencies and suppliers early, bring preferred partners, and need visible wins. This is the single most reliable trigger in services selling. (The "first 90 days" window used across this suite is a rule of thumb from practitioner practice, not a measured constant; treat it as a prioritisation guide, not a deadline.)
+**Why it buys:** New leaders review agencies and suppliers early, bring preferred partners, and need visible wins. Practitioners often treat a new leader as the most reliable trigger in services selling; that is a heuristic from experience, not a measured ranking. (The "first 90 days" window used across this suite is likewise a rule of thumb from practitioner practice, not a measured constant; treat it as a prioritisation guide, not a deadline.)
 **Where found:** Company announcements, trade press people moves, LinkedIn profile changes (supplied by the user, manual mode), conference speaker bios.
 **Strong:** External hire at VP level or above with a mandate that mentions brand, growth, or transformation; a leader who has bought creative services before. **Weak:** Internal promotion with no mandate change; an interim or acting appointment (note it, but expect slow decisions); a hire into a purely performance-marketing remit.
-**Window:** Days 14 to 90 after start (rule of thumb, as above). In the first two weeks they are still listening; after roughly day 90 the roster is usually set.
+**Window:** The first 90 days after start, strongest roughly days 14 to 90 (rule of thumb, as above). In the first two weeks they are still listening; after roughly day 90 the roster is usually set.
 
 ### 3. Product line extension
 
@@ -48,14 +48,14 @@ Each signal below is described the same way: what it is, why it creates creative
 **Why it buys:** Funded brands spend on brand to justify valuation and fuel distribution gains. Acquired brands get rebranded, integrated, or repositioned by the new owner. Acquirers harmonise portfolios, which creates large, unglamorous, well-funded design programmes.
 **Where found:** Business press, funding databases, company announcements, regulatory filings for public companies.
 **Strong:** Growth-stage funding with stated retail or geographic expansion; an acquisition where the buyer has a history of portfolio rebrands. **Weak:** A small raise with no expansion story; an acquisition explicitly framed as "no changes, business as usual" (believe it for at least two quarters).
-**Window:** Brand spend typically lands one to three quarters after the money. M&A integration work follows the deal close, not the announcement.
+**Window:** As a rule of thumb, brand spend often lands one to three quarters after the money; treat that as a planning heuristic, not a schedule. M&A integration work follows the deal close, not the announcement.
 
 ### 6. Retailer reset or new retail placement
 
 **What:** The brand wins new distribution, enters a new retailer, or faces a category reset at an existing one.
 **Why it buys:** New retail means new shelf context, new pack size or format requirements, retailer-specific compliance, and often a packaging review because the pack now sits next to different competitors. Resets force every brand in the set to justify its place, and tired packaging is an easy reason to lose facings.
 **Where found:** Retail and grocery trade press, retailer range announcements, the brand's distribution news, category management coverage.
-**Strong:** A named retailer, a date, and a category known for design-led resets; a move from direct-to-consumer into physical retail for the first time (the pack was designed for a screen and now has three seconds on a shelf). **Weak:** Distribution growth with no date or unnamed "selected stores".
+**Strong:** A named retailer, a date, and a category known for design-led resets; a move from direct-to-consumer into physical retail for the first time (the pack was designed for a screen and now has to win a brief glance on a shelf). **Weak:** Distribution growth with no date or unnamed "selected stores".
 **Window:** Tight and unforgiving. Packaging work must finish ahead of reset production deadlines, so the buying window opens as soon as the placement is real and closes fast.
 
 ### 7. Sustainability pledge or material change
@@ -68,7 +68,7 @@ Each signal below is described the same way: what it is, why it creates creative
 
 ### 8. Packaging refresh cycle
 
-**What:** No announcement at all. The packaging is simply old. Most consumer brands refresh core packaging every 3 to 5 years; some categories move faster.
+**What:** No announcement at all. The packaging is simply old. Practitioner rule of thumb: many consumer brands refresh core packaging roughly every 3 to 5 years, and some categories move faster; it varies by category and is not a measured average.
 **Why it buys:** Even without news, age plus drift (inconsistent variants, dated photography, competitors who have already refreshed) predicts a brief within a year or two.
 **Where found:** The pack itself: copyright dates, design credits, archived versions in web archives, the competitive set on shelf today.
 **Strong:** Packaging visibly older than the category norm, competitors refreshed within the last year, and any second signal from this taxonomy on top. **Weak:** Age alone, with a disciplined system and no other change. Age alone earns a watchlist entry, not an outreach.
@@ -142,4 +142,4 @@ Single signals mislead. A sustainability pledge alone is often marketing. A new 
 
 ## Cadence and review
 
-Every brief carries a review date. Pursue-now briefs are reviewed when outreach has run its course. Watchlist briefs are reviewed on the earlier of: the trigger event named in the brief, the next retailer reset for the category, a leadership change, or 90 days. Do-not-pursue briefs are reviewed in two quarters, briefly, to confirm nothing structural changed. Research is a living log, not a pile of one-off documents; the signal log is the memory that makes each subsequent brief faster and more honest than the last.
+Every brief carries a review date. Pursue-now briefs are reviewed when outreach has run its course. Watchlist briefs are reviewed monthly, and sooner if the trigger event named in the brief, the next retailer reset for the category, or a leadership change fires first; at 90 days a watchlist brief is fully re-scored, not just checked. Do-not-pursue briefs are reviewed in two quarters, briefly, to confirm nothing structural changed. Research is a living log, not a pile of one-off documents; the signal log is the memory that makes each subsequent brief faster and more honest than the last.

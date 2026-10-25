@@ -13,7 +13,7 @@ Plus pasted material: a trade snippet dated 2026-10-20 (fictional) reporting Har
 ## Reasoning
 
 - Intake: origin is trade-show conversation plus trade press; no prior relationship; conflict check against the fact sheet client categories: clear.
-- Sweep: three signals surface. Line extension with a date and a retailer (trade press, 2026-10-20, confirmed). New head of brand, external hire, started about 10 weeks ago (company announcement, 2026-08-14, confirmed), squarely inside the day 30 to 150 window. Refresh cycle context: core sauce packs date from 2023, mid-cycle, not a trigger on its own.
+- Sweep: three signals surface. Line extension with a date and a retailer (trade press, 2026-10-20, confirmed). New head of brand, external hire, started about 10 weeks ago (company announcement, 2026-08-14, confirmed), inside the new-leader window (the first 90 days, strongest roughly days 14 to 90). Refresh cycle context: core sauce packs date from 2023, mid-cycle, not a trigger on its own.
 - Stack check: the extension and the leadership change point at the same window. The new leader inherits a launch that needs packaging designed to stretch the sauce system into a refrigerated fixture the brand has never occupied. That is a stack, not two coincidences.
 - Trees: Tree 1 STRONG (two confirmed signals, same work, same window). Tree 2 portfolio match 3: the studio has shipped dips packaging and large sauce SKU systems, named in the fact sheet. Tree 3 timing NOW: spring 2027 shelf date means design decisions land this quarter. Tree 4 buyer IDENTIFIED (BRAND): the new Head of Brand.
 - Deal size: a 6-SKU launch system with launch materials sits inside the studio's typical range. Score 3, labelled an estimate.

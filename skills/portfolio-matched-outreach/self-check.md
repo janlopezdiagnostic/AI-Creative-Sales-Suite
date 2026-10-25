@@ -26,7 +26,7 @@ The assistant runs these 12 checks on the finished outreach set, in order. Every
 8. **Every follow-up adds named new value.** Each bump in the sequence names its new value (teardown insight, relevant news, seasonal hook) in its required field, sourced where it makes a factual claim.
    - Fail if: any bump's value field is empty, generic, or amounts to "just bumping", or a bump repeats an earlier touch in new words.
 
-9. **Channel rules followed.** LinkedIn drafts meet their budgets (DM under 60 words, connection note under 300 characters with the count recorded), carry no attachments, and any warm intro ask includes the forwardable blurb and the easy-out.
+9. **Channel rules followed.** LinkedIn drafts meet their budgets (DM under 60 words, connection note under 200 characters with the count recorded; free accounts cap notes at about 200, so check the composer counter), carry no attachments, and any warm intro ask includes the forwardable blurb and the easy-out.
    - Fail if: a DM runs long, a connection note is uncounted, a portfolio file is attached or promised as an attachment, or an intro ask gives the connector no way to decline.
 
 10. **No fake familiarity or slop.** The copy contains no pretend prior contact, no fake Re: subject lines, no flattery about the buyer's personal life, and no slop phrases (no "just bumping", "circling back", "hope you are well" padding, or guaranteed-reply language).

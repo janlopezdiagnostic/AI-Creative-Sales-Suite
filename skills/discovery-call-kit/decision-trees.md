@@ -26,7 +26,7 @@ START: Extraction complete, scores assigned (Fit / Budget / Timing / Access, eac
 |     NO  -> continue
 |
 |-- Total score:
-|     9-12, no dimension at 0 -> EXIT A: PURSUE TO PROPOSAL.
+|     9-12, no dimension at 0, and Budget and Access each at 2 or more -> EXIT A: PURSUE TO PROPOSAL.
 |            Hand the brief to the Scope and Pricing Architect.
 |     6-8, or Budget/Access at 1 -> EXIT B: PAID DISCOVERY FIRST.
 |            Price the learning, resolve the unknown, then propose.

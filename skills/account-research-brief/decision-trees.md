@@ -90,8 +90,8 @@ reset calendar).
 |      buying cycle for that season, not a generic 90 days.
 |
 |-- IF the window has already closed (product in market with
-|   finished design, roster already announced, leader past 180
-|   days with a set roster)
+|   finished design, roster already announced, leader past the
+|   first 90 days with a set roster)
 |   THEN timing = CLOSED
 |   -> EXIT: DO NOT PURSUE this cycle. Log the signals that will
 |      define the next cycle and set the review to that horizon.

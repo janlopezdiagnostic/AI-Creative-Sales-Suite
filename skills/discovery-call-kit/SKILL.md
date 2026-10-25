@@ -40,7 +40,7 @@ Ask the missing ones, in one short message, before producing a prep pack:
 5. What is the one outcome you want from this call: a scoped next step, a paid discovery, a site or plant visit, an introduction to the decision maker?
 6. Any sensitivities: a conflict in the category, an incumbent studio, an NDA in place or requested, a recording planned?
 
-If the user cannot answer, record it as unknown in the prep sheet. Unknown is a prep finding. Invented is a firing offence.
+If the user cannot answer, record it as unknown in the prep sheet. Unknown is a prep finding. Anything invented instead of recorded as unknown is a serious failure.
 
 ## The three modes
 

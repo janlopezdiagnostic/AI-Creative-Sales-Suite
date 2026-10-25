@@ -4,7 +4,7 @@ Which assistant setups run the suite, and what each can do out of the box. Capab
 
 ## The two modes, everywhere
 
-- **Manual mode** works in every assistant, including a free chat window: you paste skill files and exports. Every feature of every skill works this way; it is just more copy-paste.
+- **Manual mode** works in any assistant that lets you paste text or upload files: you paste skill files and exports, and the skills are written to work fully this way. Two limits to know: free tiers often limit how much you can upload or how much text a chat can hold, so loading a skill's whole file set may need a paid plan, or pasting the files in parts across the conversation. If uploads are not available at all on your plan, the landing page FAQ applies: you need a plan that lets you upload files.
 - **Connected mode** needs an assistant that supports connectors or MCP servers, plus your authorisation per tool. It removes the copy-paste for tools you connect (your CRM, your documents, your design files). No skill requires connected mode.
 
 ## Matrix
@@ -20,8 +20,7 @@ Which assistant setups run the suite, and what each can do out of the box. Capab
 ## Recommended starter configuration
 
 1. One assistant, one Project called "Sales Suite".
-2. Add: the skill you are using (SKILL.md + playbook + decision trees + self-check), your vertical layer, and your filled fact sheet or rate sheet.
-3. Add templates and examples when you want output in those exact shapes.
+2. Add: all the files in the folder of the skill you are using (the whole file set, not just SKILL.md), your vertical layer, and your filled fact sheet or rate sheet. The skill's templates and examples are part of that set; load them with it when you want output in those exact shapes.
 4. Connect tools one at a time (see `connecting-your-tools.md`), starting with whichever holds the material you reuse most: usually your documents (rates, fact sheet), then your CRM, then design files. Run each tool's test prompt before connecting the next.
 
 ## Data hygiene (all setups)

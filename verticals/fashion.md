@@ -23,7 +23,7 @@ Load this file alongside any core skill when the studio sells creative and desig
 - **Market weeks:** wholesale selling concentrates around the fashion weeks and market periods in New York, London, Milan, and Paris, plus regional showroom weeks. Lookbooks and line sheets must exist before market week opens; a late line sheet is not late, it is worthless. Work backwards from the selling date, not the launch date.
 - **Sample lead times:** creative decisions wait on physical samples. Shoot dates are set by when samples land, and samples slip. Build the schedule around sample delivery as an explicit dependency with a stated fallback (previous season product, showroom samples, or reshoot windows).
 - **Drop culture:** DTC and streetwear-influenced labels release in drops, not seasons: shorter cycles, higher frequency, asset production as a standing rhythm rather than a campaign event. Price drop support as a retainer or a per-drop rate, never inside a seasonal campaign fee.
-- **Leadership and funding signals:** a new creative director appointment resets a label's whole visual world and its supplier list. New investment or a new retail account (a first major wholesale door) forces wholesale tools and campaign upgrades on the retailer's timeline.
+- **Leadership and funding signals:** a new creative director appointment resets a label's whole visual world and its supplier list, and the buying window is the first 90 days, strongest roughly days 14 to 90 (a practitioner rule of thumb, not a measured constant). New investment or a new retail account (a first major wholesale door) forces wholesale tools and campaign upgrades on the retailer's timeline.
 
 ## Vocabulary the skill must use correctly
 

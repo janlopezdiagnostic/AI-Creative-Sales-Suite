@@ -80,4 +80,4 @@ Each entry: trigger, right move, wrong move. Rates, where mentioned, always come
 
 20. **The user wants a guaranteed outcome added to the proposal ("this retainer will grow your sales").**
     Right move: Refuse the guarantee, and write the strongest honest alternative: what the retainer buys (capacity, coherence, speed, a team that knows the range) and the evidence from the finished project. Guarantees the studio cannot control are a debt collected later, in trust.
-    Wrong move: Softening it to "expected to drive growth" and calling that honest. It is the same promise wearing a cardigan.
+    Wrong move: Softening it to "expected to drive growth" and calling that honest. The softer wording makes the same promise.

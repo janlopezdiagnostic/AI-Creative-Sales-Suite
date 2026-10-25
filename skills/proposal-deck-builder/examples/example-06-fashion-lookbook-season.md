@@ -6,12 +6,12 @@ All brands, people, and prices in this example are fictional and illustrative, t
 
 - Discovery brief: Atelier Vost (fictional), an independent fashion label, two collections a year. The job: lookbook and campaign imagery direction, showroom and line-sheet materials, and the seasonal packaging suite (boxes, tissue, tags, carrier) for the autumn/winter season. Fixed points: market week in early October, lookbook needed for buyer appointments during it, retail delivery in August for the early drop. Decision maker: the founder-designer; her commercial director handles terms.
 - Scope output: Good / Better (recommended) / Best tiers covering art direction days, lookbook design, line sheets, packaging suite artwork on existing structures; photography and casting excluded as client-managed; seasonal retainer option priced as an alternative in Best.
-- Library: one full season for another label (named, imagery permitted, no sales outcome recorded, fashion clients rarely permit one), one packaging-only case for a fashion retailer (named, deliverables only).
+- Library: one full season for another label (named, imagery permitted, no sales outcome recorded for it), one packaging-only case for a fashion retailer (named, deliverables only).
 - Vertical note: fashion layer applies. The document itself is a taste sample; restraint is the credential.
 
 ## Arc chosen
 
-Seasonal arc: the season does not move. Beats: the calendar first (market week and delivery dates, working backwards), one season of past work shown large and mostly wordless, the deliverables by collection moment, tiers. The proposal is six pages. A fashion founder reads density as desperation; the document's confidence is its brevity.
+Seasonal arc: the season does not move. Beats: the calendar first (market week and delivery dates, working backwards), one season of past work shown large and mostly wordless, the deliverables by collection moment, tiers. The proposal is six pages. The document stays short on purpose: six pages, large work, little text.
 
 ## The proposal (shape)
 

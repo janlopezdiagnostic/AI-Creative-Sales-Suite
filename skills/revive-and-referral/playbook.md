@@ -8,7 +8,7 @@ A stalled deal is not a dead deal, and a lost deal is not always a closed one. B
 
 ## Part 1: Stall diagnosis
 
-You cannot revive what you have not diagnosed. Five causes account for nearly every stalled or lost creative services deal. Each has a different unblock condition, and therefore a different play.
+You cannot revive what you have not diagnosed. Stalled or lost creative services deals usually come back to one of five causes. Each has a different unblock condition, and therefore a different play.
 
 ### No decision (the silent majority)
 
@@ -55,7 +55,7 @@ A trigger is a sourced, dated event that changes the blocking condition from Par
 
 **Brand news.** Launches, line extensions, new retail placements, rebrands surfacing in market, awards, funding, M&A. Strong when it creates the exact work that was stalled (a line extension announced after a packaging project froze is close to a written invitation). Weak when it is generic good news with no creative implication ("nice funding round, anyway about our proposal" is not a touch, it is a non sequitur).
 
-**Leadership change.** A new CMO, head of brand, or creative director at the account. The highest-velocity trigger for champion-gone and no-decision stalls. The new leader reviews suppliers and inherits open questions; arriving in their first weeks with a concise history of the stalled conversation positions the studio as helpful context rather than another cold pitch. Apply Skill 1's window discipline (days 14 to 90 as a rule of thumb).
+**Leadership change.** A new CMO, head of brand, or creative director at the account. The highest-velocity trigger for champion-gone and no-decision stalls. The new leader reviews suppliers and inherits open questions; arriving in their first weeks with a concise history of the stalled conversation positions the studio as helpful context rather than another cold pitch. Apply Skill 1's window discipline (the first 90 days, strongest roughly days 14 to 90, as a rule of thumb).
 
 **Seasonal windows.** For packaging and brand work: retailer resets (commonly spring and autumn planogram changes, with artwork lock 8 to 12 weeks before shelf date, verified per retailer), seasonal ranges (work starts two to three quarters before it shelves), annual planning cycles, and category review calendars. A stall diagnosed as timing becomes revivable on a date you can compute, and the tracker should carry that date the day the deal stalls, not the day someone remembers it.
 
@@ -99,7 +99,7 @@ Referrals are asked for at satisfaction peaks, and peaks are detectable if you a
 - **The results moment,** when the client shares an outcome: distribution won, a retailer compliment, sell-through, an internal award. Their words about the result are the strongest evidence in the whole engine.
 - **The unsolicited praise moment,** an email or message the client sends that says, in their own words, that working with the studio was good. Save the exact words in the satisfaction log (with their knowledge where the channel implies privacy). This is evidence and, later, testimonial raw material they have already half-written.
 - **The repeat-buy moment.** A client who returns with a second project has demonstrated satisfaction behaviourally. The ask can ride on the kickoff goodwill of the new project.
-- **The rescue moment,** after the studio fixed a problem fast and well. Handled correctly, a recovered problem produces more loyalty than a smooth project; the ask comes after the fix is confirmed good, never during the fire.
+- **The rescue moment,** after the studio fixed a problem fast and well. Handled correctly, a problem recovered well can leave a client more loyal, not less; the ask comes after the fix is confirmed good, never during the fire.
 
 Detection discipline: the account lead flags peaks into the satisfaction log as they happen. Peaks decay; a launch high is worth acting on within two to three weeks. Praise older than a year, or praise followed by a later problem that was never resolved, is not a peak and does not support an ask.
 

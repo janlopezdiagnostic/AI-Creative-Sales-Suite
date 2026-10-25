@@ -82,7 +82,7 @@ route for the opener.
 |   -> EXIT: Draft the shortened LinkedIn form per playbook.md:
 |      under 60 words, no attachments. If no connection exists,
 |      draft the connection request note variant instead
-|      (under 300 characters, no full pitch, no meeting ask).
+|      (under 200 characters, no full pitch, no meeting ask).
 |      Manual sending only. No scraping, no automation.
 |
 |-- IF no warm intro path, no verified email from a legitimate

@@ -23,7 +23,7 @@ Before/after is the strongest recap device in visual work and the easiest to mis
 
 - Show the shelf, the range, or the system as it was, and as it is, with dates. Photography the client has already approved for circulation, or renders from the delivered files.
 - Describe what changed in craft terms a brand manager can repeat internally: hierarchy clarified, range architecture made extendable, colour blocking at shelf distance.
-- Never mock the before. The before was usually the client's own earlier work, sometimes their own design. "From fragmented to coherent" is a description. "From amateur to professional" is an insult wearing a case study's clothes.
+- Never mock the before. The before was usually the client's own earlier work, sometimes their own design. "From fragmented to coherent" is a description. "From amateur to professional" is an insult, however it is presented.
 
 ### Outcomes that are not numbers
 
@@ -35,7 +35,7 @@ Ask once, specifically, at the warm moment (usually the sign-off or launch revie
 
 - "May we cite the two additional retailer listings in our own materials?" is a different question from "may we cite sales."
 - Named, anonymised ("a national grocery brand"), or internal only. Three different permissions. Do not upgrade one into another.
-- A client quote needs the quoter's agreement to the exact words, not a vibe.
+- A client quote needs the quoter's agreement to the exact words, not a general sense that they would be fine with it.
 - If permission is refused, the claim still works inside the pitch meeting with that client, because they know it is theirs. It simply never travels. Mark it internal only and move on.
 
 ### The repair paragraph
@@ -109,7 +109,7 @@ Never bring: a rate card defence (rates were never the topic), criticism of the 
 
 ## Part 6. Handling "we will just call you"
 
-This sentence is the most common retainer refusal and usually means one of four things: the structure feels too big, the timing is wrong, the speaker lacks the authority or budget route, or they genuinely believe ad hoc is equivalent. Diagnose before answering, with one question: "What would need to be true for a standing arrangement to make sense?" Then listen.
+This sentence comes up often when a retainer is refused, and it usually means one of four things: the structure feels too big, the timing is wrong, the speaker lacks the authority or budget route, or they genuinely believe ad hoc is equivalent. Diagnose before answering, with one question: "What would need to be true for a standing arrangement to make sense?" Then listen.
 
 If you answer, answer with the difference, concretely: ad hoc buys a place in the queue each time, briefed from memory, at whatever the calendar allows, with rush exposure when the retailer's date moves. The retainer buys reserved capacity, a team that carries the range in its head, and one invoice. Both are legitimate choices. Some clients should stay ad hoc, and saying so when the map shows thin ongoing work builds more trust than a conversion would.
 
@@ -130,11 +130,11 @@ Yes: paper it through the Scope and Pricing Architect retainer template, confirm
 
 No: record the reason verbatim, the dated re-entry trigger, and the keep-warm plan in the CRM (with confirmation, per tools.md). Then keep the promise exactly: the check-in happens on the date, with something useful attached (a relevant reset date, a regulatory change, their seasonal moment), not a "just circling back."
 
-Maybe, which is the commonest answer: a maybe is a yes missing one input. Find out which input, supply it if it is yours to supply, and date the next conversation before the meeting ends. A maybe left undated is a no that has not told you yet.
+Maybe: a maybe is a yes missing one input. Find out which input, supply it if it is yours to supply, and date the next conversation before the meeting ends. A maybe left undated is a no that has not told you yet.
 
 ## Part 9. The first ninety days (keeping what you converted)
 
-More retainers are lost in the first quarter than at the pitch, and usually to administration, not to rivals. Four disciplines protect the conversion:
+Retainers are often lost in the first quarter, and usually to administration, not to rivals. Four disciplines protect the conversion:
 
 1. **Route everything through the named channel from day one.** The first time a client direct-messages a designer and it works, the usage log, the block, and eventually the retainer's credibility all start leaking. Redirect kindly, every time, and make the official route faster than the unofficial one.
 2. **Send the usage note before anyone asks.** Days used, by role, what they produced, block remaining. A client who watches the block being managed trusts the studio with a bigger one. A client who discovers usage at the invoice audits everything afterwards.

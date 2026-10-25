@@ -15,7 +15,7 @@ Three things about how to read it, so it is useful to you rather than misleading
 
 **1. The rates are costing units, not the product.** Our project work is priced on deliverables: a named scope, a fixed fee per phase, a defined number of revision rounds, and production support where listed. Day rates apply to time-based work (ongoing support, embedded days, discovery extensions) and to change orders. Comparing a project price to a single day rate compares a finished thing to one of its ingredients.
 
-**2. What a rate carries.** Each rate includes the role's full cost to us: employment, insurance, software and font licensing infrastructure, studio overhead, and the revision structure stated in our proposals. It is not comparable to a freelance day rate for the same title, which excludes most of that list and all of the accountability for the outcome.
+**2. What a rate carries.** Each rate includes the role's full cost to us: [TO CONFIRM before sending: list only what your rates actually carry, for example employment costs, insurance, software and font licensing, studio overhead] and the revision structure stated in our proposals. It is not comparable to a freelance day rate for the same title, which excludes most of that list and all of the accountability for the outcome.
 
 **3. Role mix is the honest comparison.** Projects are staffed as a blend. On a typical packaging programme the blend runs [describe in general terms from the studio's own mix, for example "roughly a third senior design, a third design and adaptation, a third artwork, production and management"]. We are glad to walk through the staffing of any specific proposal.
 

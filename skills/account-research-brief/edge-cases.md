@@ -47,7 +47,7 @@ Twenty situations that break naive research. Each entry: the trigger, the right 
 ## 8. The new leader is interim or acting
 
 **Trigger:** A leadership signal turns out to be an interim appointment.
-**Right move:** Downgrade the leadership signal, note that interim leaders rarely change rosters, and set the review trigger to the permanent appointment announcement, which restarts the day 30 to 150 window.
+**Right move:** Downgrade the leadership signal, note that interim leaders rarely change rosters, and set the review trigger to the permanent appointment announcement, which restarts the new-leader window (the first 90 days, strongest roughly days 14 to 90).
 **Wrong move:** Running the standard new-leader play against someone who will not own the consequences of changing suppliers.
 
 ## 9. Parent company and subsidiary confusion
@@ -120,4 +120,4 @@ Twenty situations that break naive research. Each entry: the trigger, the right 
 
 **Trigger:** Input is thin and the user pushes: "just assume typical budgets and decision makers for a brand this size."
 **Right move:** Decline the assumption, mark the fields unknown, and either run the brief with explicit unknowns and capped confidence, or pause for the clarifying questions in SKILL.md. Offer the provisional brief format instead.
-**Wrong move:** Complying. A brief full of typicals is fiction with tables, and it will be quoted back as research.
+**Wrong move:** Complying. Assumed typicals are not research, however tidy the brief looks, and they will be quoted back as if they were findings.

@@ -89,13 +89,13 @@ Twenty situations that break naive follow-up. Each entry: the trigger, the right
 ## 15. The deal stalls because the client contact is job-hunting
 
 **Trigger:** Signals (supplied by the user, manual mode only) suggest your contact is interviewing; their silence is personal, not commercial.
-**Right move:** Do nothing commercial with this information. Maintain normal, kind contact at the agreed cadence. If they land somewhere relevant, Case 5 discipline applies at the new account: conflict check and a proper brief first.
+**Right move:** Do nothing commercial with this information. Maintain normal, kind contact at the agreed cadence. If they land somewhere relevant, edge case 1 discipline applies at the new account: conflict check and a proper brief first.
 **Wrong move:** Confronting them, accelerating touches to "get in before they leave", or sharing the speculation anywhere, including in the tracker as fact rather than unverified context.
 
 ## 16. The giver asks for a referral fee
 
 **Trigger:** A client offers introductions but asks, openly, for a percentage or a gift in return.
-**Right move:** Decline the arrangement plainly and without moralising: the studio does not pay for referrals from client-side contacts because it would breach their employer's policies in most cases and yours in all cases. Keep the door open to an unpressured introduction with no strings, and log the conversation factually.
+**Right move:** Decline the arrangement plainly and without moralising: the studio does not pay for referrals from client-side contacts: it would breach their employer's policies in most cases, and it breaches this studio's own stated policy, which is why the policy is written down in the fact sheet before any ask is made. Keep the door open to an unpressured introduction with no strings, and log the conversation factually.
 **Wrong move:** Agreeing "just between us", or counter-negotiating the percentage. There is no compliant version of a secret per-deal payment to an employee of the buyer.
 
 ## 17. A logo permission exists but the client changed hands

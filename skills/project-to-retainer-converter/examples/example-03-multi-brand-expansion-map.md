@@ -13,7 +13,7 @@ Hartwell Studio. Currency USD, prices exclude tax.
 
 ## Reasoning
 1. The expansion map is not the retainer. The map shows the whole territory, brand by brand, so the client can see what exists. The retainer then covers one phased slice, sized from work the studio understands.
-2. Only Brand A, Millbrook, was the project. The studio knows its design families, printer, copy approval route, and quarterly volume. Brands B and C are map entries, not scoped work: their files, volumes, and approval routes are unknown, and pricing them now would be guessing dressed as confidence.
+2. Only Brand A, Millbrook, was the project. The studio knows its design families, printer, copy approval route, and quarterly volume. Brands B and C are map entries, not scoped work: their files, volumes, and approval routes are unknown, and pricing them now would be a guess presented as a scoped price.
 3. Canada is real but unstarted. Bilingual panels are a defined job type once the client supplies approved English and French copy, but timing, SKU count, and regulatory copy ownership are unconfirmed, so Canada is a phased addition, quoted or folded in at a quarterly review, not buried in phase 1.
 4. Seasonal work and guidelines guardianship are the strongest recurring threads. Seasonal versions repeat yearly, and guardianship, meaning the studio maintains the guidelines and checks artwork against them, only works if one party owns it.
 5. Phasing protects both sides. Phase 1 covers Millbrook only, from its known forecast. Expansion is a standing item at each quarterly review, where usage, the 70 percent trigger, and the forecast decide the next block size with evidence in front of both parties.

@@ -9,15 +9,15 @@ Hard rules for all variants:
 - **One matched case study maximum**, cited within its library permission level, claims softened if the match grade is partial.
 - **No guaranteed outcomes**, no reply-rate promises, no bulk anything: one message, one named person, one real signal.
 
-## Variant 1: Connection request note (under 300 characters, hard limit)
+## Variant 1: Connection request note (under 200 characters, hard limit)
 
-Budget: 300 characters maximum including spaces. Aim for 220 to 260 so nothing is truncated. One signal, one reason, no pitch, no ask beyond the connection itself.
+Budget: 200 characters maximum including spaces. Free LinkedIn accounts cap connection notes at about 200 characters; Premium allows 300. Check the composer counter before sending, whatever the account type. Aim for 160 to 190 so nothing is truncated. One signal, one reason, no pitch, no ask beyond the connection itself.
 
 > Hi [First name], I work with [category] brands on packaging at [Studio]. Noticed [SIGNAL: what changed, short form] at [Brand] and thought it worth connecting. [First name]
 
-Character count for this draft: [Count it and write the number here. Over 300 is a fail: shorten the signal, never the honesty.]
+Character count for this draft: [Count it and write the number here. Over 200 is a fail: shorten the signal, never the honesty.]
 
-### Filled example (all names fictional, 236 characters)
+### Filled example (all names fictional, 189 characters)
 
 > Hi Priya, I run packaging work at Studio Northlight (fictional). Saw Northbeam Pantry (fictional) announce its autumn line extension and thought it worth connecting ahead of the reset. Alex
 
@@ -33,7 +33,7 @@ Placeholders:
 
 > Thanks for connecting, [First name]. The [SIGNAL] is why I reached out: [one line on the packaging implication]. We did the comparable work for [CASE STUDY], [format and scale in a few words]. Worth a short call, or shall I send the one-page example by email?
 
-### Filled example snippet (all names fictional, 51 words)
+### Filled example snippet (all names fictional, 49 words)
 
 > Thanks for connecting, Priya. The autumn extension is why I reached out: eight new SKUs have to land inside your current tiering before artwork lock. We rebuilt tiering across an 18-SKU pantry range for a comparable food brand [CASE STUDY: CS-07, anonymised]. Worth a 20 minute call next week?
 

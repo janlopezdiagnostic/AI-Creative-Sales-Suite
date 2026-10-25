@@ -3,7 +3,7 @@
 All brands, people, and prices in this example are fictional and illustrative. This example runs the desk in the fashion vertical layer: the client is a fashion label, and the pushback is about creative fees, photography usage rights, and lookbook scope two weeks before market week.
 
 ## The studio (fictional rate sheet excerpt)
-Maren Studio (fictional creative studio selling campaign and lookbook design to fashion labels). Currency USD, prices exclude tax.
+Maren Studio (fictional creative studio selling campaign and lookbook design to fashion labels). Currency USD, prices exclude tax. Quoted scope on the table: a 56 page lookbook and a campaign edit of 10 hero images, at the quoted fee.
 - Creative director 950/day, senior designer 750/day, designer 550/day, artworker 450/day, project manager 500/day
 - Lookbook scope is priced per designed spread range with a stated page count; additional pages are a change order at the per-page rate in the scope
 - Photography and talent usage is licensed, never assigned: priced by term, territory, and media from the usage table in the rate sheet; "in perpetuity, all media, worldwide" is the most expensive line on that table, not a courtesy
@@ -30,5 +30,5 @@ Tell me which combination you want and I will paper it today."
 The label took the full 56 page scope at the quoted fee, bought the one season usage package, and chose the change order for the added pages at the rush rate after seeing the supplement option. Finance's 30 percent was never mentioned again once the usage ladder showed where the real money in the deal sat.
 
 ## Critique
-Strengths: the desk rules travelled into the fashion layer intact: classify and separate bundled asks, trade scope never rate, price rights as a ladder instead of refusing them, and convert deadline pressure into a format choice with real numbers. The usage answer also protected the studio legally: clearing perpetuity worldwide on a finance director's say-so, without the underlying photographer and talent licences allowing it, would have been a breach dressed as a favour.
+Strengths: the desk rules travelled into the fashion layer intact: classify and separate bundled asks, trade scope never rate, price rights as a ladder instead of refusing them, and convert deadline pressure into a format choice with real numbers. The usage answer also protected the studio legally: clearing perpetuity worldwide on a finance director's say-so, without the underlying photographer and talent licences allowing it, would have been a breach presented as a favour.
 Watch outs: the per-page and usage numbers must come from the studio's real rate sheet and usage table; an invented usage price quoted in market week becomes the precedent every future season negotiates against. Also note the reply's discipline about what it did not do: it never criticised the client's previous studio, whose "bundled" usage was almost certainly narrower than the client remembered.

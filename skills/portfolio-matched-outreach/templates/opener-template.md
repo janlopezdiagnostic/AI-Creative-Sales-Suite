@@ -2,7 +2,7 @@
 
 One opener per buyer, built from one brief and one matched library entry. If either is missing, stop: a name-only input routes back to the Account Research Brief skill, and a brief with no honest match produces a do-not-send note, not an opener.
 
-Total budget: 90 to 120 words in the body. Every line earns its place or it is cut. Placeholders in brackets are filled from the brief or the library only, never from memory or inference.
+Total budget: 60 to 100 words in the body (under 100, per the playbook; the line budgets below add up to that range, and the opt-out line counts inside it). Every line earns its place or it is cut. Placeholders in brackets are filled from the brief or the library only, never from memory or inference.
 
 ## Anatomy, in order
 
@@ -46,6 +46,12 @@ One ask, small and specific. A short call or a permission to send one relevant e
 
 > Worth a 20 minute call next week to see if the same approach fits [the specific work]? Or I can send the one-page example first.
 
+### Line 5: Opt-out line (one short line, required)
+
+One line that makes declining costless, and stops the sequence if the buyer uses it. The follow-up sequence header records whether this line was included. A draft without it is not ready to send.
+
+> If this is not relevant, say the word and I will close the file.
+
 ### Sign-off (under 10 words)
 
 [First name], [Studio name]. Real contact details as the user supplies them. No fake familiarity, no "hope you are well" padding, no postscript tricks unless the postscript carries real information.
@@ -54,7 +60,7 @@ One ask, small and specific. A short call or a permission to send one relevant e
 
 **Subject:** Autumn reset at Northbeam Pantry
 
-> Saw Northbeam Pantry (fictional) announce an 8-SKU line extension into the autumn reset (trade press, 2026-09-08) [SIGNAL]. With artwork lock 10 weeks before shelf, the extension has to sit inside your current tiering without breaking shelf blocking. We rebuilt tiering across an 18-SKU pantry range for a comparable food brand [CASE STUDY: CS-07, anonymised per permission], and it kept its full listing through its range review. Worth a 20 minute call next week on whether the same architecture approach fits the extension?
+> Saw Northbeam Pantry (fictional) announce an 8-SKU line extension into the autumn reset (trade press, 2026-09-08) [SIGNAL]. With artwork lock 10 weeks before shelf, the extension has to sit inside your current tiering without breaking shelf blocking. We rebuilt tiering across an 18-SKU pantry range for a comparable food brand [CASE STUDY: CS-07, anonymised per permission], and it kept its full listing through its range review. Worth a 20 minute call next week on whether the same architecture approach fits the extension? If it does not, say the word and I will close the file.
 >
 > Alex, Studio Northlight (fictional)
 
@@ -65,5 +71,5 @@ Notes on the example: the proof client is not named because CS-07 is anonymised 
 - [ ] Signal has a source and a date from the brief, and is under six months old or reactivated by a newer signal
 - [ ] Proof line cites one entry ID, respects its permission level, and matches the match grade
 - [ ] Every claim traces to the brief or the library; anything unsupported is marked [TO CONFIRM] and flagged
-- [ ] Body is 90 to 120 words, one ask, no guaranteed reply or outcome language
+- [ ] Body is 60 to 100 words, one ask, opt-out line included, no guaranteed reply or outcome language
 - [ ] Draft only: the human reviews and sends. This template never sends anything

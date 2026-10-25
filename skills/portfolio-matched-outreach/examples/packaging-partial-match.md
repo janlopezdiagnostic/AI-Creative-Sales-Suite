@@ -14,14 +14,14 @@ Plus the case-study library (condensed): Entry A, beverage cans redesign, 8 SKUs
 
 ## Reasoning
 
-- Match scoring: Category match 1, beverages and snacks are adjacent to chilled food but are not the same fixture or shopper. Format match 2, Entry C is sleeves for chilled food, close to the target format, but it is small and name-restricted. Task match 1, the brief asks for artwork-only extensions; Entries A and B are redesign and structural work, a different job. Buyer match 2, Entry C matches the brand manager role, Entries A and B do not.
-- Overall: partial match. This is not a do-not-send case, because Entry C is honestly adjacent and citable within its limits, but it is not a strong-match case either. The user instruction to not undersell is noted and set aside where it conflicts with the library: stretched claims are not allowed.
+- Match scoring, on the six axes in the playbook (each 0 to 3, total out of 18), scored on Entry C, the only honestly adjacent entry: Category proximity 2, chilled deli food sits in the same fixture as chilled ready meals, though it is not the same subcategory. Format and deliverable match 2, Entry C is sleeve artwork for chilled food, which is the artwork-only kind of work the brief asks for; Entries A and B score lower on this axis because they are a redesign and a structural job. Buyer-type match 3, Entry C was bought by a brand manager, Tom Ellery's role. Outcome relevance 1, Entry C's recorded outcome is only that artwork was delivered on deadline, with no result a buyer can weigh. Recency 1, no completion date is recorded for Entry C. Proof asset quality 1, the work is describable only, the client is not citable, and no shareable assets are recorded. Total 10 of 18.
+- Overall: partial match (9 to 13). This is not a do-not-send case, because Entry C is honestly adjacent and citable within its limits, but it is not a strong-match case either. The user instruction to not undersell is noted and set aside where it conflicts with the library: stretched claims are not allowed.
 - Handling rules applied: lead with observation, not proof. Soften proof to exactly what the library supports. Say what the work was and was not. Do not claim beverage shelf results transfer to ready meals, do not imply structural expertise solves an artwork-only need, and do not name the Entry C client.
 - Channel decision: email, observation-led. The opener must earn attention from the quality of the observation because the proof line alone will not.
 
 ## Output: outreach set for human review (drafts only, human sends)
 
-**Email opener (84 words)**
+**Email opener (79 words)**
 Subject: Bramblewick autumn SKUs
 
 Hi Tom,
@@ -33,7 +33,7 @@ Our closest work is chilled sleeve artwork delivered on deadline for a deli bran
 Worth a short call to see if that artwork experience is useful here?
 
 Thanks,
-Fieldnote Studio
+Alex Mercer, Founder, Fieldnote Studio
 
 **Bump 1, day 5: teardown insight**
 Subject: A note on adding SKUs to an older system
@@ -43,7 +43,9 @@ Hi Tom, one pattern from artwork extension work: the risk is rarely the new pack
 **Bump 2, day 11: relevant news**
 Subject: Autumn reset and artwork lock
 
-Hi Tom, the retailer published its autumn artwork guidance this week, with the usual emphasis on barcode and labelling consistency across variants. It reinforced the point above: extension ranges fail at repro stage more often than at design stage. If a second check on files before lock would help, we can do that as a small, standalone piece.
+Hi Tom, [NEW SIGNAL: what has changed since the opener, with its source and date, goes here]. If a second check on files before lock would help, we can do that as a small, standalone piece.
+
+Note for the human sender: a follow-up may only use a signal the seller actually has, sourced and dated the way a brief signal is. The brief for this account holds no second signal, so this bump is drafted around a placeholder. Put a real signal in before sending, or skip this bump and go to Bump 3.
 
 **Bump 3, day 19: seasonal hook and break-up**
 Subject: Closing the loop before autumn

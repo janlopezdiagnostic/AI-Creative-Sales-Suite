@@ -12,5 +12,5 @@ One email, sent once, only where Tree 4 returns CLEAR and the stall is silence r
 
 - The assumption line must be genuinely meant. If the studio intends to keep touching the account monthly, this email is a bluff and must not be sent.
 - No guilt engineering: no "I have sent three emails", no reference to effort, no passive-aggressive thanks.
-- No new pitch content. The breakup email that sneaks in a case study is a sales email wearing a costume.
+- No new pitch content. A breakup email that sneaks in a case study is a sales email, whatever it calls itself.
 - After sending: tracker status moves to PARKED (with trigger watch) or CLOSED per the user's decision, and the record states "breakup sent [date]; no second breakup". A reply reopens the deal and is logged as a revival with the reply as its source.

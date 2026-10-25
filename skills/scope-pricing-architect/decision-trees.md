@@ -23,7 +23,7 @@ START: The client asks for free creative (concepts, a route, "just show us one p
    - YES → Continue to 2.
 2. What is the studio's cost of pitching (days at rate sheet rates)?
    - If the pitch cost is more than a small, founder-approved percentage of the project value → Offer paid discovery instead (step 3). If refused, decline the pitch and keep the relationship door open.
-   - If within the approved limit → Pitch, but scope the pitch itself: state what will be shown (one route, concept level, watermarked or presented not sent), protect IP in the pitch terms (drafting aid, counsel review), and diary the decision date. No decision by the date → Tree 5 style follow up, once, then close the file.
+   - If within the approved limit → Pitch, but scope the pitch itself: state what will be shown (one route, concept level, watermarked or presented not sent), protect IP in the pitch terms (drafting aid, counsel review), and diary the decision date. No decision by the date → one dated follow-up, then close the file and hand the account to the Revive and Referral skill.
 3. Paid discovery offer structure: fixed price, 2 to 4 weeks, deliverable is audit + architecture + scoped plan, fee creditable against the full project if the studio chooses to offer the credit. Frame it honestly: "You are buying the thinking that makes the full price accurate. If you take the plan elsewhere, it was still worth having."
 Exit: discovery signed, pitch run inside limits, or a clean, warm no.
 

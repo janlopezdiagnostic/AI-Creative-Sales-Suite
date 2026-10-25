@@ -6,7 +6,7 @@ The core belief: creative proposals are not won by the studio with the most page
 
 ## Part 1. Proposal anatomy, section by section
 
-The standard proposal document runs nine sections. Small jobs compress them (see the one-page proposal template); nothing below Better-tier work omits sections 1, 5, 7, or 9.
+The standard proposal document runs ten sections. Small jobs compress them onto one page (see example 8, which compresses the standard template); work at or below the Better tier still keeps sections 1, 5, 7, and 9.
 
 ### 1. Understanding (the mirror)
 Restate the client's problem in their own language, drawn from the discovery brief: the business situation, the deadline pressure, the internal stakes, what failure looks like. Two to four paragraphs, no studio claims yet. This section exists because clients approve people who demonstrably listened. It is built entirely from discovery material; if you cannot write it without inventing, discovery was too thin and the skill should say so.
@@ -14,7 +14,7 @@ Restate the client's problem in their own language, drawn from the discovery bri
 Rule: mirror, do not flatter. "Your range is invisible at three feet in a fixture dominated by two national brands" wins. "Your exciting brand" loses, silently, with every experienced buyer.
 
 ### 2. Insight (the reframe)
-The one thing the studio sees that reframes the problem: a range architecture flaw, a shelf-blocking opportunity, a claims hierarchy problem, a regulatory clock the client has not priced in. One page maximum. The insight comes from category observation and past work, and it must be true and sourced from material the studio actually holds: an audit, shelf photography, the client's own data from discovery. An insight that requires designing the client's new pack to express is spec work wearing a trench coat; cut it back to the observation.
+The one thing the studio sees that reframes the problem: a range architecture flaw, a shelf-blocking opportunity, a claims hierarchy problem, a regulatory clock the client has not priced in. One page maximum. The insight comes from category observation and past work, and it must be true and sourced from material the studio actually holds: an audit, shelf photography, the client's own data from discovery. An insight that requires designing the client's new pack to express it is spec work; cut it back to the observation.
 
 ### 3. Approach (how, not what)
 Describe the method: phases, what happens in each, what the client sees and approves at each gate, who from the client side is needed and when. This is where process artifacts earn their place: a redacted audit spread, an architecture diagram from a finished project, a workshop photograph. Approach answers the buyer's real question, which is never "are they talented" but "what will working with them actually be like, and where can it go wrong".
@@ -102,7 +102,7 @@ Selection beats volume. The rules:
 ## Part 6. Process and timeline pages
 
 - Build the timeline from the client's fixed points backwards: shelf date or launch, artwork lock (typically 8 to 12 weeks before shelf for retailer work, verify per retailer), print and production windows, approval gates, strategy and design phases.
-- Show three lanes: studio work, client obligations, supplier or third-party dependencies. Client obligations get dates and owners (consolidated feedback within the window the scope states, copy freeze, regulatory sign-off). This page is a commercial instrument disguised as a diagram: when the project later slips on a late client input, this page is the evidence the conversation was had early and kindly.
+- Show three lanes: studio work, client obligations, supplier or third-party dependencies. Client obligations get dates and owners (consolidated feedback within the window the scope states, copy freeze, regulatory sign-off). This page looks like a diagram and works as a commercial instrument: when the project later slips on a late client input, this page is the evidence the conversation was had early and kindly.
 - Mark the critical path and the single most likely delay, with the mitigation. Buyers trust a studio that has visibly thought about what goes wrong.
 - Seasonal and retailer calendars come from the vertical layer; a timeline that ignores the reset cycle it claims to serve fails the self-check.
 
@@ -134,7 +134,7 @@ When a client wants to see "what you would do with our brand" before paying, the
 4. **A credentials conversation with the people who did the work.** Reference calls with past clients, where the library and the client permit. A reference call is worth more than a route, and it cannot be shopped to a rival.
 5. **Paid discovery.** The priced first phase: audit, architecture, and the scoped plan, with routes and concepts inside it where the scope puts them. This is the destination of the alternatives ladder (decision-trees.md). Frame it on its merits: the client is buying the work that makes every later number accurate, and it is theirs to keep.
 
-What never goes on the ladder: "just one quick concept", an unpaid route, a render of the client's product, naming candidates, or a moodboard that is a concept in a false moustache (imagery selected to pre-design this client's pack is spec work; imagery showing the studio's past world is credentials).
+What never goes on the ladder: "just one quick concept", an unpaid route, a render of the client's product, naming candidates, or a moodboard that is really a concept for this client (imagery selected to pre-design this client's pack is spec work; imagery showing the studio's past world is credentials).
 
 ## Part 10. RFP response structure
 
@@ -145,5 +145,5 @@ RFPs invert the proposal: the client's structure governs, and creativity lives i
 3. **Answer the question asked, then add the one proof.** Each answer: direct response, then the single most relevant library case or artifact. Not three. Evaluators read dozens of responses.
 4. **Write the spec creative demand through the ladder.** If the RFP demands concepts, respond with the strongest compliant alternative the rules allow (past work, process, paid discovery where the framework permits a priced phase), state the studio's position once, plainly, without lecturing the evaluator. If concepts are a pass/fail gate and the studio's policy is no, that is a qualify-out fact, surfaced to the user before effort is spent.
 5. **Price in their format, from the scope output.** If their format forces a single number where the scope has tiers, the recommended tier is the number and the tier structure is explained in the permitted narrative space. Never invent a blended rate to fit a cell.
-6. **Compliance hygiene.** Named files as instructed, deadlines in their timezone, every requested declaration and certificate actually attached, version numbers on documents. More RFPs are lost to administration than to quality.
+6. **Compliance hygiene.** Named files as instructed, deadlines in their timezone, every requested declaration and certificate actually attached, version numbers on documents. RFPs are easy to lose on administration alone, whatever the quality of the work.
 7. **Terms exceptions, stated.** Where the client's framework terms conflict with the studio's (payment days, IP assignment, source files), list the exceptions in the section provided, plainly. Hoping procurement will not notice is not a strategy; it is a deferred argument.

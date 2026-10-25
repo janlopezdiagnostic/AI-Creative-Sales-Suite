@@ -43,7 +43,7 @@ START: The client asks for a lower price, in any phrasing: a percentage, a budge
 START: A procurement process has appeared: panel application, RFP, framework invitation, or onboarding demand. Run the triage scorecard (templates/rfp-triage-scorecard.md) as you go.
 1. Is there a brand-side sponsor: a named person inside who wants this studio and can say so?
    - NO → Is there named, dated, real work behind the process (a project, a programme, a reset), verifiable from the sponsor-less material provided?
-     - NO → **Decline, warmly, now.** One paragraph: thank them, state capacity is committed to existing clients, offer to be contacted when a specific project exists. Log the decline and the reason. Exit.
+     - NO → **Decline, warmly, now.** One paragraph: thank them, state the true reason (there is no specific project behind the process yet, so there is nothing concrete to scope, price, or staff against), offer to be contacted when a specific project exists. Never script a softer reason in its place: a capacity excuse the studio has not checked is an invented fact, and it tends to surface later. Log the decline and the reason. Exit.
      - YES → Continue, but cap the investment at the triage threshold and note the missing sponsor as the top risk.
    - YES → Continue.
 2. Score the process: budget named or discoverable; access to the decision maker for questions; creative demanded at submission (a heavy negative); timeline plausibility; incumbent position; admin cost (paperwork hours, insurance upgrades, portal terms) against realistic first year value.

@@ -29,8 +29,8 @@ Do not draft a substantive response until you have, or have explicitly flagged a
 
 1. The proposal or scope as actually sent (the exact version the client is answering). Negotiating against a summary of your own proposal is how terms get misquoted back at you.
 2. The studio rate and rules sheet (the same sheet the Scope and Pricing Architect uses): rates, revision structure, payment terms, kill fees, source file policy, discount authority, and the founder's floor and escalation rules. Without it, you may classify pushback and draft questions, but you may not agree, offer, or counter on numbers or terms.
-3. The deal history: prior emails and calls summarised in order, previous projects with this client and how they paid and behaved, any verbal commitments anyone has already made, and who said what. Undisclosed prior promises are the most common way negotiations go wrong.
-4. The pushback itself, verbatim where possible. Tone, channel, and exact wording are diagnostic data. "Finance needs 20 percent off" and "I love it but I cannot get this past Finance" are different situations wearing similar clothes.
+3. The deal history: prior emails and calls summarised in order, previous projects with this client and how they paid and behaved, any verbal commitments anyone has already made, and who said what. Undisclosed prior promises are a reliable way for negotiations to go wrong: they surface after everyone has committed to a number.
+4. The pushback itself, verbatim where possible. Tone, channel, and exact wording are diagnostic data. "Finance needs 20 percent off" and "I love it but I cannot get this past Finance" are different situations that sound alike.
 
 ## Mandatory clarifying questions
 

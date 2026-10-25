@@ -16,7 +16,7 @@ All bumps are drafts only. The human reviews and sends each one. The assistant n
 
 ## Bump 1: Teardown insight
 
-- **Send window:** [4 to 6 business days after the opener, unless a reply or an opt-out arrived first]
+- **Send window:** [4 to 5 business days after the opener, unless a reply or an opt-out arrived first]
 - **New value added (required):** [One specific, true observation about their current range, shelf presence, or pack architecture that the seller can stand behind. Source it: shelf photo, range page, or retailer listing, with date.]
 - **Draft slot (40 to 70 words):**
 
@@ -26,17 +26,17 @@ All bumps are drafts only. The human reviews and sends each one. The assistant n
 
 ## Bump 2: Relevant news
 
-- **Send window:** [7 to 10 business days after Bump 1]
+- **Send window:** [5 to 7 business days after Bump 1]
 - **New value added (required):** [News the buyer plausibly has not connected to their range yet: a dated retailer reset announcement, a labelling or EPR rule change covering their formats, a competitor move reported in trade press. Source and date required.]
 - **Draft slot (40 to 70 words):**
 
 > One thing worth flagging: [the news, source, date]. For [Brand] that likely means [the concrete packaging implication, stated as an implication, not a certainty]. We handled the same implication on [CASE STUDY: entry ID, named only within its permission level]. Want the short note on how we sequenced it?
 
-- **Do not send if:** [The news does not actually cover their formats or market / the implication is speculation dressed as fact / any stop rule has fired]
+- **Do not send if:** [The news does not actually cover their formats or market / the implication is speculation presented as fact / any stop rule has fired]
 
 ## Bump 3: Seasonal hook or break-up
 
-- **Send window:** [10 to 14 business days after Bump 2]
+- **Send window:** [7 to 10 business days after Bump 2]
 - **New value added (required):** [Either a real seasonal anchor (the next reset, seasonal range, or planning cycle, with its date) or an honest close: one line that makes replying easy and makes silence a clean ending.]
 - **Draft slot (40 to 70 words):**
 

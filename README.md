@@ -10,11 +10,11 @@ New here? Read **[START-HERE.md](START-HERE.md)** first. Five minutes, plain Eng
 
 I work in tech. My wife is a designer, and a lot of my friends work in creative fields.
 
-I kept watching smart, talented people do their selling the slow way, not because they were bad at it, but because nobody had shown them how to put AI to work on the everyday parts of the job. The research before a pitch. The first email. Pricing a project without guessing.
+Most of them barely use AI. Not because they are against it. They just have not found a good place to start, and most AI advice is written for other tech people.
 
-So I built this for them, and for anyone like them: people who are not technical, who did not grow up prompting AI tools, and who just want a practical way to start using AI in their daily workflow and get more efficient at the work they already do well.
+This is a starting place. It covers the everyday parts of selling creative work (researching a client, writing the first email, pricing a project) as simple files you use with Claude, ChatGPT, or Gemini. No technical setup. Nothing new to install.
 
-It is free. Use it, share it, pass it on to a friend who could use it.
+If you are not technical and you want AI to save you time on work like this, start here. It is free.
 
 ## The problem
 
@@ -55,7 +55,7 @@ Each skill in the suite teaches the assistant one selling job, in depth, with th
 | Turn a finished project into monthly ongoing work | Project-to-Retainer Converter |
 | Restart a stalled deal, or ask a happy client for an introduction | Revive and Referral |
 
-Every skill comes with the same backup, all written for the AI rather than for you to study: a detailed playbook, worked examples that start from messy real-world inputs (all fictional, all labelled), ready-to-use templates, answers for unusual situations, a final self-check the assistant runs before it answers you, and tests the files were checked against.
+Every skill comes with the same backup, all written for the AI rather than for you to study: a detailed playbook, worked examples that start from messy real-world inputs (all fictional, all labelled), ready-to-use templates, answers for unusual situations, a final self-check the assistant runs before it answers you, and test cases the files can be checked against.
 
 **Industry files** (in `verticals/`) add your world's buyers, calendar, and pricing habits. All four are built: **Packaging**, **Brand and Product Design**, **Fashion**, **Agencies**.
 

@@ -22,18 +22,18 @@ The Friday deadline is a pressure device, friendly or otherwise. The reply is sa
 
 ## The maths (trade menu)
 - Remove production liaison: minus 1,150. The client's team then manages the printer directly; the studio supplies print ready files and one handover call.
-- Reduce artwork rounds from 2 to 1 consolidated round: minus 750 (senior designer 1 day; the round being cut is a master family round, which the senior designer leads. Adaptation rounds are designer and artworker time and price differently.)
+- Reduce master design rounds from 2 to 1: minus 750 (senior designer 1 day, the price of one master family round, which the senior designer leads. Artwork and adaptation rounds are designer and artworker time and price differently, so they are not the round being traded here.)
 - Both trades: 10,650 reduced to 8,750, a 17.8 percent reduction in price with a genuinely smaller scope.
 - Note the arithmetic honesty: a full 20 percent on unchanged scope was 2,130 of pure rate. The trades get the client close to their number only by removing work, which is the entire point, and the reply says so in one sentence.
 
 ## Output: the reply (client facing, excerpt)
 "Glad the direction landed. On the two points, here is what we can do.
-Our rate is our rate, so I cannot take 20 percent off the same scope, and I would not trust a studio whose numbers moved that easily. What I can do is resize the scope to a number Finance can sign. Two options: drop our printer liaison (your team runs the printer directly, we supply files and a handover call), which brings it to 9,500; or that plus one consolidated artwork round instead of two, which brings it to 8,750. The full scope stays on the table at 10,650 whenever you want it, including as a phase 2.
+Our rate is our rate, so I cannot take 20 percent off the same scope, and I would not trust a studio whose numbers moved that easily. What I can do is resize the scope to a number Finance can sign. Two options: drop our printer liaison (your team runs the printer directly, we supply files and a handover call), which brings it to 9,500; or that plus one master design round instead of two, which brings it to 8,750. The full scope stays on the table at 10,650 whenever you want it, including as a phase 2.
 On native files: they are not included in our fees, here or in the proposal you have, because they hand over the working system, not just the finished packs, and they carry font and asset licences that sit with the studio and would need to transfer or be re-licensed to your team. They are available at 1,500 per family, 3,000 here, with a handover session so your team gets real value from them. What is included, as standard, is every final production file and a complete print ready set.
 Either scope works for a Friday signature at the deposit terms in the proposal. Tell me which structure Finance prefers and I will paper it the same day."
 
 ## Outcome (illustrative)
-The client chose the 9,500 tier, kept both revision rounds, dropped the liaison, and did not buy the source files. Three months later they bought the liaison back as a change order during a difficult print run, at standard rates, without rancour on either side.
+The client chose the 9,500 option, kept the full rounds in every phase, dropped the liaison, and did not buy the source files. Three months later they bought the liaison back as a change order during a difficult print run, at standard rates, without rancour on either side.
 
 ## Critique
 Strengths: both asks were answered in full, in one message, with numbers the client could take to Finance; nothing was conceded under the Friday pressure, and the trade menu got within reach of their target while removing real work. The files answer gives the practical reason once and does not repeat it defensively.

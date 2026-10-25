@@ -22,7 +22,7 @@ Load this file alongside any core skill when the studio sells brand identity, br
 
 - **Funding rounds:** an announced raise is the classic trigger: the identity bought at seed no longer fits the company being built. The buying window opens at announcement and the work is usually wanted before the next raise or a major launch `[VERIFY PER CLIENT]`.
 - **Product launches:** a flagship launch, a new product line, or entry into a new category forces brand decisions on a date set by engineering and sales, not by the brand team. Work backwards from launch: identity decisions need lock months ahead if physical or retail touchpoints are involved.
-- **Leadership changes:** new CMO or VP brand is the highest-receptivity window in this vertical too: the first 90 days (a practitioner rule of thumb, not a measured constant). A new leader inherits a brand they did not build and is licensed to question it.
+- **Leadership changes:** new CMO or VP brand is the highest-receptivity window in this vertical too: the first 90 days, strongest roughly days 14 to 90 (a practitioner rule of thumb, not a measured constant). A new leader inherits a brand they did not build and is licensed to question it.
 - **Pre-IPO and M&A:** pre-IPO companies tidy the brand for scrutiny; acquirers and the acquired both face brand architecture decisions (endorse, merge, retire) on integration timelines set by the deal, not by preference. Announcements are public signals; the real buying window is the integration planning phase after close.
 - **Fiscal planning:** enterprise brand budgets are set in annual planning cycles; a rebrand proposed after budgets lock usually waits a year or gets descoped. Ask when their planning cycle closes.
 

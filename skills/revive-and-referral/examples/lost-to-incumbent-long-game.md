@@ -12,7 +12,7 @@ All brands, people, and events in this example are fictional. Facts are invented
 
 - Tree 4: CLEAR. A communicated loss to an incumbent is a closure of that decision, not of the account, and no negative permission signals exist.
 - Trigger check: the new format is confirmed and dated, and crucially it is work outside the incumbent's demonstrated scope, which is exactly Tree 1's narrow-scope exception for lost-to-incumbent deals. The unverified part ("Studio North has never done pouches") is inference about a third party's portfolio: usable as a reason to write, never as a claim to make to the client.
-- Play: Template D, narrow-scope return. The email does not reopen the redesign decision, does not suggest the incumbent cannot do the work, and offers a useful artefact before any proposal. One touch only; if it does not land, the account returns to the quarterly rhythm.
+- Play: Template D, narrow-scope return. The email does not reopen the redesign decision, does not suggest the incumbent cannot do the work, and offers a useful artefact before any proposal. The proof claim in it (three ranges shipped in the format) comes from the studio's case study library, which the user supplied with the account history; it is stated only because those three entries are complete and citable. One touch only; if it does not land, the account returns to the quarterly rhythm.
 
 ## Final output (draft, for the user's confirmation)
 

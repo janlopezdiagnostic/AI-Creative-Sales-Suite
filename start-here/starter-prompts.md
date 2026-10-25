@@ -9,7 +9,7 @@ Say: "Interview me one question at a time and fill in my studio fact sheet. Keep
 
 ## Research a brand before you pitch
 
-Upload: the Account Research Brief SKILL.md, your fact sheet, your industry file from `verticals/`.
+Upload: all the files in the Account Research Brief folder (the whole skill, not just SKILL.md), your fact sheet, your industry file from `verticals/`.
 Say: "Research [brand name] and tell me: is there a real reason they would buy creative work now, do we have the right work to win it, and should we pursue them, watch them, or walk away? Show me where each fact came from and when. If you cannot check something, mark it [UNVERIFIED] instead of guessing."
 
 ## Write a first email
@@ -19,12 +19,12 @@ Say: "Write a first email to [name or role] at [brand]. Use only the case studie
 
 ## Prepare for a first call
 
-Upload: the Discovery Call Kit SKILL.md, your fact sheet, anything you know about the client.
+Upload: all the files in the Discovery Call Kit folder (the whole skill, not just SKILL.md), your fact sheet, anything you know about the client.
 Say: "I have a first call with [brand] on [date]. Prepare me: what to ask, what to listen for, and what would make this project not worth taking. Keep it to one page."
 
 ## Make sense of a call you just had
 
-Upload: the Discovery Call Kit SKILL.md, your fact sheet.
+Upload: all the files in the Discovery Call Kit folder (the whole skill, not just SKILL.md), your fact sheet.
 Say: "Here are my notes from the call. Turn them into a clear brief: what they need, who decides, budget and timing if they said, and mark anything they did not say as [NOT STATED]. Then tell me the verdict: proposal, paid discovery first, keep in touch, or decline politely."
 
 ## Build a proposal
@@ -34,17 +34,17 @@ Say: "Turn these notes into a proposal. Use only the prices from the scope I gav
 
 ## Price a project
 
-Upload: the Scope and Pricing Architect SKILL.md, your fact sheet, your rate card or price list, the brief.
+Upload: all the files in the Scope and Pricing Architect folder (the whole skill, not just SKILL.md), your fact sheet, your rate card or price list, the brief.
 Say: "Price this project in three options: a smaller one, the one you recommend, and a fuller one. Use only my rates. Anything you need from me, mark [TO CONFIRM] instead of inventing a number. Include how many revision rounds are in, what extra work costs, and what is not included."
 
 ## Answer a pushback
 
-Upload: the Objection and Procurement Desk SKILL.md, your fact sheet, your rate card, the priced scope.
+Upload: all the files in the Objection and Procurement Desk folder (the whole skill, not just SKILL.md), your fact sheet, your rate card, the priced scope.
 Say: "The client just wrote this: [paste their email]. Help me reply. Trade scope if we must, but do not cut my rates, and do not offer anything I have not approved."
 
 ## Turn a finished project into ongoing work
 
-Upload: the Project-to-Retainer Converter SKILL.md, your fact sheet, your rate card, a summary of the finished project.
+Upload: all the files in the Project-to-Retainer Converter folder (the whole skill, not just SKILL.md), your fact sheet, your rate card, a summary of the finished project.
 Say: "This project just finished and went well. Build me a monthly retainer offer based on the work they actually keep needing, priced from my rates. Include how either side can end it."
 
 ## Restart a stalled deal or ask for an introduction

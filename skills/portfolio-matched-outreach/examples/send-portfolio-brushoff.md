@@ -8,14 +8,15 @@ All brands, studios, and people in this example are fictional and invented for t
 
 > "Sent the Harborlight opener Tuesday, buyer replied literally just 'Just send your portfolio please.' Should I send the full deck? It is 38 pages, has everything, easier to just send it and let her pick. Need a reply today."
 
-Plus pasted material: the brief opener that was sent (68 words): "Hi Jess, saw Harborlight is extending its chutney range by 6 SKUs for the spring reset (trade note, October). Extensions that size live or die on range architecture: new variants must earn their place without blurring the core. We designed a 9-SKU preserves extension for a brand director that shipped for a spring reset. Worth a 20-minute call next week? Thanks, Fieldnote Studio." Buyer: Jess Marino (fictional), Brand Director. Reply received Thursday: "Just send your portfolio please."
+Plus pasted material: the brief opener that was sent (60 words before the sign-off): "Hi Jess, saw Harborlight is extending its chutney range by 6 SKUs for the spring reset (trade note, October). Extensions that size live or die on range architecture: new variants must earn their place without blurring the core. We designed a 9-SKU preserves extension for a brand director that shipped for a spring reset. Worth a 20-minute call next week? Thanks, Alex Mercer, Fieldnote Studio." Buyer: Jess Marino (fictional), Brand Director. Reply received Thursday: "Just send your portfolio please."
 
 Plus the research brief (condensed): Recommendation PURSUE NOW. Hypothesis and signals as reflected in the opener above. Plus the case-study library (condensed): Entry A, preserves and chutney range extension, 9 SKUs, category: preserves and chutneys, format: jars and labels, buyer type: brand director, outcome: extension shipped for a spring reset, permission: named client, summary and outcome in general terms citable, full case study shareable as a one-page summary. Entry B, jams range, 14 SKUs, permission: describable only. Entry C, sauces system, permission: citable, category less relevant. Full studio deck: 38 pages, mixed categories, includes entries with varied permission levels.
 
 ## Reasoning
 
 - Triage first: "just send your portfolio" has three common meanings and the reply must work for all three without assuming bad faith. One, genuine shorthand: the buyer files portfolios for a future brief and has no time for a call. Two, a polite brush-off: no interest, portfolio is the exit. Three, an internal forwarding need: the buyer must show something to a colleague to justify a conversation. Sending the full 38-page deck fails all three: it buries the one matched case in mixed work, it may include material at the wrong permission level for forwarding, and it ends the conversation instead of reopening it.
-- Correct move: send a matched mini-portfolio, not the deck. One case study, Entry A, as a one-page summary, chosen because category, format, buyer type, and timing all match the buyer's own spring extension. Mention no other case in detail. Entry B can be named in one describable line only if space allows; the draft below omits it to keep the reply to a single clear proof point.
+- Match scoring, on the six axes in the playbook (each 0 to 3, total out of 18), scored on Entry A: Category proximity 3, Format and deliverable match 3, Buyer-type match 3, Outcome relevance 2 (the extension shipped for a spring reset, citable in general terms), Recency 2 (no completion date is recorded in the condensed entry), Proof asset quality 3 (the one-page summary is on file and shareable). Total 16 of 18, grade Strong.
+- Correct move: send a matched mini-portfolio, not the deck. One case study, Entry A, as a one-page summary, chosen because it is the strong match for the buyer's own spring extension. Mention no other case in detail. Entry B can be named in one describable line only if space allows; the draft below omits it to keep the reply to a single clear proof point.
 - Second move: include one question that reopens the conversation and is easy to answer in one line. The question must be about the buyer's project, not about the studio, and it must give the buyer a reason to reply beyond thanks. Here: whether the extension stays inside the current architecture or tests a new tier, because that choice changes what relevant proof and thinking the studio would share next.
 - Tone: comply promptly and without argument. Do not lecture the buyer on why a call is better, do not say this is better than a portfolio, and do not attach the full deck as well just in case. Confidence in this reply is shown by restraint.
 - Follow-up planning: if the buyer goes quiet after the mini-portfolio, one follow-up only, adding a new, specific value point tied to the question, then a clean break. No second portfolio send.
@@ -34,7 +35,7 @@ One quick question so I send nothing irrelevant next: is your 6-SKU extension st
 Happy to talk for 20 minutes if the summary raises anything, or to leave it with you if the timing is not right.
 
 Thanks,
-Fieldnote Studio
+Alex Mercer, Founder, Fieldnote Studio
 
 Attachment note for the human sender: attach only the one-page summary for Entry A as permitted by the library. Do not attach the full deck, and do not attach Entry B or C materials.
 

@@ -22,7 +22,7 @@ Each entry follows the same shape: what it usually means, the questions that rev
 
 ### 2. "We can do this in-house now, with AI / Canva / our junior designer"
 
-**What it usually means.** Sometimes a genuine capability belief, increasingly sincere since AI tools improved. More often: a budget argument wearing a capability costume, or a buyer testing whether the studio believes its own price. Occasionally it is true for part of the scope (routine adaptations) and false for the parts that carry the risk (architecture, structural, regulated content, print).
+**What it usually means.** Sometimes a genuine capability belief, increasingly sincere since AI tools improved. More often: a budget argument presented as a capability question, or a buyer testing whether the studio believes its own price. Occasionally it is true for part of the scope (routine adaptations) and false for the parts that carry the risk (architecture, structural, regulated content, print).
 
 **Questions that reveal the blocker.** "Which parts were you picturing in-house?" (Forces the scope conversation; the answer almost always concedes the hard parts back.) "Who owns it when the retailer rejects the artwork or the dieline is wrong?" (The accountability question. In-house tools produce files; they do not absorb consequences.) "What is driving it, budget or control?" (Asked kindly, this gets an honest answer surprisingly often, and each answer has a different response.)
 
@@ -54,7 +54,7 @@ Each entry follows the same shape: what it usually means, the questions that rev
 
 **What it usually means.** Either a real external deadline (retailer reset, launch, board date), in which case speed is a scope and price question, or internal drift being converted into the studio's emergency. Diagnose which before quoting anything: a deadline that has existed for three months and arrives as a rush in week twelve is a planning failure the client is asking the studio to fund.
 
-**Questions that reveal the blocker.** "What date is fixed, and what fixes it?" "What happens commercially if it slips a week?" (If the answer is vague, the rush is soft.) "Which parts must land by the date, and which can follow?" (Most rushes are one deliverable wearing a whole project's coat.)
+**Questions that reveal the blocker.** "What date is fixed, and what fixes it?" "What happens commercially if it slips a week?" (If the answer is vague, the rush is soft.) "Which parts must land by the date, and which can follow?" (Most rushes turn out to be one deliverable with a hard date, not the whole project.)
 
 **Response structure.** Use the scope skill's rush mechanics: multiplier from the rate sheet applied to affected phases, shown as a visible line, with the standard timeline at the standard price offered beside it. Offer the phased landing: the critical SKUs or the hero pack by the date, the balance on a normal timeline at normal rates. Never absorb a rush silently; an unpriced rush teaches the client's planning system that the studio is the contingency plan.
 
@@ -82,7 +82,7 @@ Each entry follows the same shape: what it usually means, the questions that rev
 
 ### 8. Net-90 and terms objections ("Our standard terms are...")
 
-**What it usually means.** Process again: a large organisation's accounts payable machine runs on its own calendar, and the person telling you is rarely the person who set it. But "standard terms" is also used as a genuine negotiation lever, and every term is money: payment days are financing the studio provides, kill fees are insurance, and liability caps are risk transfer. Terms objections are price objections in a suit.
+**What it usually means.** Process again: a large organisation's accounts payable machine runs on its own calendar, and the person telling you is rarely the person who set it. But "standard terms" is also used as a genuine negotiation lever, and every term is money: payment days are financing the studio provides, kill fees are insurance, and liability caps are risk transfer. A terms objection is a price objection in another form.
 
 **Questions that reveal the blocker.** "Is that a policy with no exceptions, or the default an exception can be requested against?" "Who can approve an exception, and what do they usually need to see?" "What is your actual payment run in practice?" (The stated terms and the lived terms often differ, in both directions, and the scope skill's payment section explains why this answer is a scoping input.)
 
@@ -116,7 +116,7 @@ Brand directors fall in love; procurement functions process. A small studio surv
 
 ### Panels and approved supplier lists
 
-**How they run.** The organisation maintains a roster per category. Entry is periodic (often annual), competitive, and paperwork led: company details, insurance certificates, financial standing, references, rate cards. Once on the panel, individual projects may still be mini-competed among panellists.
+**How they run.** The organisation maintains a roster per category. Entry is periodic (on a cycle set by the client), competitive, and paperwork led: company details, insurance certificates, financial standing, references, rate cards. Once on the panel, individual projects may still be mini-competed among panellists.
 
 **How a small studio survives.** Price the admin before applying: hours of paperwork, insurance upgrades if any, and the probability-weighted value of the work the panel actually controls. Apply when a brand-side sponsor confirms real volume flows through the panel and names upcoming work; decline politely when the panel is a fishing expedition with no named projects. Keep panel paperwork in a reusable folder (certificates, policies, standard answers) so the second application costs an hour, not a week. Once on a panel, behave like it is an audition that never closes: small jobs done impeccably are what convert roster membership into flagship work.
 
@@ -154,7 +154,7 @@ Brand directors fall in love; procurement functions process. A small studio surv
 
 **Concede in decreasing steps, slowly.** If movement is authorised at all, each step is smaller than the last and slower than the last, which signals approach to a real limit. Steps of equal size signal a staircase with more steps. And every step is a trade per the rule above; the size rule governs the shape, the trade rule governs the content.
 
-**Document as you go.** Confirm each agreement in writing the day it is made, briefly: "Confirming: phase 1 at [fee], two rounds, deposit [terms]; source files remain excluded, priced separately if wanted." This is not mistrust; it is how both sides survive staff changes, memory drift, and the six weeks between agreement and invoice. The negotiation log (template) is the internal version; the confirmation email is the external one. Deals die at documentation stage more often than at price stage, usually because what each side documented privately was a different deal.
+**Document as you go.** Confirm each agreement in writing the day it is made, briefly: "Confirming: phase 1 at [fee], two rounds, deposit [terms]; source files remain excluded, priced separately if wanted." This is not mistrust; it is how both sides survive staff changes, memory drift, and the six weeks between agreement and invoice. The negotiation log (template) is the internal version; the confirmation email is the external one. A deal can still die at the documentation stage, usually because what each side documented privately was a different deal.
 
 **Deadlines.** Use real ones, name fake ones kindly. A retailer reset is a real deadline and a legitimate reason for structure to firm up. "We sign Friday" from a buyer who has said it three times is weather, not climate; respond completely and same day, but do not let the calendar edit the terms.
 

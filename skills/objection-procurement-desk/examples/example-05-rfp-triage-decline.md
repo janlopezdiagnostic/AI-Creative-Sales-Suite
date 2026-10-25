@@ -22,7 +22,7 @@ Run the scorecard (templates/rfp-triage-scorecard.md):
 10. Terms preview: 1. Unknown; portal terms unseen at triage.
 11. Admin cost: 1. Heavy pack, partly reusable.
 12. Strategic value: 1. A national own label roster place would be useful if real.
-Total: 8 of 24, against a threshold of 15. Automatic fails also trigger: free creative at submission AND no budget AND no sponsor (all three), and the contact cannot name who decides beyond "the buying team".
+Total: 6 of 24, against a threshold of 15. Automatic fails also trigger: free creative at submission AND no budget AND no sponsor (all three), and the contact cannot name who decides beyond "the buying team".
 Decision: decline, warmly, the same week. Not a negotiation of the process, because no line of the process is fixable by the studio from outside a portal with no named human. Log the decline, the score, and the two facts that would change the answer (a named brand side sponsor, or creative removed from the submission stage).
 
 ## Output: the decline (sent through the portal message function and by email to the procurement address)
@@ -36,4 +36,4 @@ No reply, which is the expected outcome of a portal decline and not a failure of
 
 ## Critique
 Strengths: the triage was scored, not felt, which is what makes a decline defensible inside the studio when the logo is famous. The decline gave the two reasons that are both true and reputationally safe, and left a specific, plausible route back that did in fact get used.
-Watch outs: the capacity reason must stay honest. If the studio had been empty that quarter, the decline would have rested on method alone, and that is sufficient; inventing a capacity reason because it sounds softer is the kind of small fiction that returns later wearing a different hat.
+Watch outs: the capacity reason must stay honest. If the studio had been empty that quarter, the decline would have rested on method alone, and that is sufficient; inventing a capacity reason because it sounds softer is the kind of small fiction that tends to surface later.

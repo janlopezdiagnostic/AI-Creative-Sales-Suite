@@ -7,7 +7,7 @@ Client: [name]  |  Year covered: [year]  |  Prepared: [date]
 ## Instructions
 1. Fill the rows from the client's calendar first. Ask the client contact for dates you do not know, and mark the rest [TO CONFIRM]. Never present a generic industry date as the client's date.
 2. Add the seasonal peak row for the client's vertical. Packaging: range resets and retailer review windows, [months]. Fashion: the two main seasons and any capsule drops, [months]. Other verticals: name the peak and its evidence, [peak and source].
-3. Mark the results review after each launch: the strongest pitch window is the two to four weeks after it.
+3. Mark the results review after each launch: the strongest pitch window is the two to six weeks after it.
 4. Mark the latest date a retainer line can enter the client's budget, and work backwards from it.
 5. Recheck the grid at each quarterly review.
 

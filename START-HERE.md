@@ -60,4 +60,4 @@ Use the starter sentences in `start-here/starter-prompts.md`. For example: "Rese
 
 ## If you get stuck
 
-Do not read the long files to fix it. Start a fresh chat, upload the fact sheet and the one skill file again, and use the exact starter sentence from `start-here/starter-prompts.md`. Nine times out of ten, that is the whole fix.
+Do not read the long files to fix it. Start a fresh chat, upload the fact sheet and all the files in the skill's folder again (the whole file set, not just SKILL.md), and use the exact starter sentence from `start-here/starter-prompts.md`. Usually, that is the whole fix.

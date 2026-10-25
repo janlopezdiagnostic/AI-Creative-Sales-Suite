@@ -51,7 +51,7 @@ What still matters is consistency, not permission: one shared version in the sha
 
 Updates land in the GitHub repo. On each update you want to adopt:
 
-1. The suite owner (name one: usually the fact sheet owner) reads the changelog and decides the swap date. Updates are never swapped mid-pursuit on a live account unless the changelog fixes something that account depends on.
+1. The suite owner (name one: usually the fact sheet owner) reads what changed (the repo's recent commits or release notes on GitHub) and decides the swap date. Updates are never swapped mid-pursuit on a live account unless the change fixes something that account depends on.
 2. Replace skill files in the shared project wholesale; do not merge by hand. Your fact sheet, rate sheet, and client projects are yours and are never touched by an update.
 3. Spot-check one known example from the new version's examples folder against your sheets before the team uses it live.
 4. Note the version and date in the shared project description, so any output can be traced to the version that produced it.

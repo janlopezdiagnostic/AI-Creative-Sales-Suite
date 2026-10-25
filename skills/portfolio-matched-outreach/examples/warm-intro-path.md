@@ -14,7 +14,7 @@ Plus the case-study library (condensed): Entry A, preserves and condiments range
 
 ## Reasoning
 
-- Match scoring: Category 3, format 3, buyer 3, timing 3. On proof alone this would be a straightforward strong-match cold email, as in Example 1.
+- Match scoring, on the six axes in the playbook (each 0 to 3, total out of 18), scored on Entry A: Category proximity 3, Format and deliverable match 3, Buyer-type match 3, Outcome relevance 2 (the extension shipped for a spring reset, citable in general terms), Recency 2 (no completion date is recorded in the condensed entry), Proof asset quality 2 (assets are not itemised in the entry). Total 15 of 18, grade Strong. On proof alone this would be a straightforward strong-match cold email, as in Example 1.
 - Channel decision, the point of this example: a warm path beats a cold path when three conditions hold, and all three hold here. One, the connection is real and recent, not a LinkedIn coincidence. Two, the connection knows the buyer personally, not just the company. Three, the connection has already signalled willingness, so the ask is a confirmation, not a cold favour. When any condition fails, default to the matched cold set instead of manufacturing a warm route.
 - Cost check: a warm intro spends social capital, so the ask must be minimal, forwardable, and easy to decline. The connection should be able to forward one paragraph without editing it, and the paragraph must contain the trigger, the matched proof, and the ask, because the buyer will judge the studio from that paragraph alone.
 - Sequencing: do not send the cold set in parallel. Ask for the intro first, wait a defined window (here, 7 days), and only if the intro does not land, send the cold opener with no mention of the connection. Sending both insults the connection and confuses the buyer.
@@ -26,9 +26,9 @@ Plus the case-study library (condensed): Entry A, preserves and condiments range
 Hi Samira, thank you again for offering this at the event, and please say no if the timing is wrong, no awkwardness at all. If you are still happy to, the paragraph below is written to forward as is to Helen at Kestrel. If she says no, that is a complete answer and I will not follow up through you again.
 
 **Forwardable paragraph (the connection forwards this unchanged)**
-Hi Helen, Samira Patel suggested I write. Kestrel is extending its preserves range by 5 SKUs for the spring reset, and range extensions that size usually turn on holding the existing architecture tight under a fixed deadline. Fieldnote Studio designed a 12-SKU preserves extension for a brand director that shipped for a spring reset. They would value a 20-minute conversation to compare notes. Happy to be told it is already covered.
+Hi Helen, Samira Patel suggested I write. I am Alex Mercer, founder of Fieldnote Studio. Kestrel is extending its preserves range by 5 SKUs for the spring reset, and range extensions that size usually turn on holding the existing architecture tight under a fixed deadline. We designed a 12-SKU preserves extension for a brand director that shipped for a spring reset. I would value a 20-minute conversation to compare notes. Happy to be told it is already covered.
 
-**Opener the sender will use if the intro lands (email, sent after Helen replies or Samira confirms the forward, 71 words)**
+**Opener the sender will use if the intro lands (email, sent after Helen replies or Samira confirms the forward, 68 words)**
 Subject: Thanks for the intro, Kestrel spring range
 
 Hi Helen,
@@ -40,7 +40,7 @@ Our 12-SKU preserves extension is the closest reference we have.
 Would a 20-minute call next week suit to talk through the architecture questions first, before any pitch?
 
 Thanks,
-Fieldnote Studio
+Alex Mercer, Founder, Fieldnote Studio
 
 If the intro does not land within 7 days, the sender uses the strong-match cold set pattern from Example 1, with no reference to Samira in any message.
 

@@ -20,7 +20,7 @@ Evidence (buyer's words, or `[NOT STATED]`):
 
 ## Timing (a dated driver)
 - 3: A dated, consequential driver inside this quarter or next (reset, launch, listing review), and the back-calculation is feasible.
-- 2: Dated within two quarters, or dated but with a feasibility question Tree 4 can resolve.
+- 2: A dated driver more than two quarters out, or a driver inside two quarters whose back-calculation still has a feasibility question Tree 4 has to resolve (score 3 requires the back-calculation to be feasible).
 - 1: "Soon", seasonal someday, or a deadline with no consequence attached.
 - 0: No driver; the project happens when it happens.
 

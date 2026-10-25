@@ -54,7 +54,7 @@ For each category: name the category, the client type or brand (name them if you
 
 - Who approves pursue-now recommendations:
 - Who owns follow-up research actions:
-- Review cadence for watchlist briefs:
+- Review cadence for watchlist briefs: [Suite default: monthly check, sooner if a named trigger fires, full re-score at 90 days]
 
 ## Last updated
 

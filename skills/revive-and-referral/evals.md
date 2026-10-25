@@ -74,7 +74,7 @@ Run each case with the studio fact sheet and any stated records loaded. A case p
 
 ## Case 15: Breakup email done right
 
-**Input sketch:** A no-decision stall, one prior value-add touch unanswered, trigger watch produced nothing in 60 days. User requests the breakup email.
+**Input sketch:** A no-decision stall, two prior value-add touches unanswered, trigger watch produced nothing in 60 days. User requests the breakup email.
 **Expected behaviour:** Four-line structure: real history referenced from the record, assumption stated, door left open with the lowest-friction next step, thanks with no sarcasm. Tracker updated to parked/closed on send, with the rule stated: no second breakup email follows.
 
 ## Case 16: Tracker review

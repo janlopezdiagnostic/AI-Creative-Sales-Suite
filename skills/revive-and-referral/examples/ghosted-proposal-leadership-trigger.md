@@ -12,7 +12,7 @@ All brands, people, and events in this example are fictional. Facts are invented
 
 - Tree 4 first: no opt-out, no stated no, no conflict in the record. Permission CLEAR.
 - Diagnosis: the original stall reads no-decision, but the new fact changes the primary cause to champion gone in effect: the person who owned the conversation has been superseded by a new head of brand with her own mandate.
-- Trigger: leadership change, confirmed by a dated trade source, inside the early window (days 14 to 90 rule of thumb). Tree 2: ACT, because it directly changes the blocking condition: there is now a decision maker whose job is to review exactly this kind of open question.
+- Trigger: leadership change, confirmed by a dated trade source, inside the early window (the first 90 days, strongest roughly days 14 to 90, rule of thumb). Tree 2: ACT, because it directly changes the blocking condition: there is now a decision maker whose job is to review exactly this kind of open question.
 - Play: Template C, new-champion introduction. Not a re-pitch. The proposal goes as an attachment for context, the ask is deliberately minimal, and the breakup option is not used because the counterparty has changed; a breakup email to a person who never received the original thread would be theatre.
 
 ## Final output (draft, for the user's confirmation)

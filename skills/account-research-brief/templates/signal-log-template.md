@@ -5,7 +5,7 @@ One row per signal, including signals you reject. The log is the memory across b
 | Date logged | Brand | Signal type | Signal summary | Source | Source date | Grade | Window | Status | Review date | Notes |
 |-------------|-------|-------------|----------------|--------|-------------|-------|--------|--------|-------------|-------|
 | 2026-10-24 | Example Foods (fictional) | Line extension | Adding a dips range, 6 SKUs, spring launch | Trade press | 2026-10-20 | Confirmed | Now | In brief | 2026-11-24 | Retailer attached |
-| 2026-10-24 | Example Foods (fictional) | Leadership | New head of brand started | Company announcement | 2026-09-30 | Confirmed | Days 30-150 | In brief | 2026-12-01 | External hire |
+| 2026-10-24 | Example Foods (fictional) | Leadership | New head of brand started | Company announcement | 2026-09-30 | Confirmed | Days 14-90 | In brief | 2026-12-01 | External hire |
 | 2026-10-24 | Example Apparel (fictional) | Rebrand | Rumoured identity refresh | Social post | 2026-10-02 | UNVERIFIED | Unknown | Watchlist | 2027-01-15 | Needs a second source |
 | 2026-10-24 | Example Drinks (fictional) | Packaging refresh cycle | Core pack design dated 2021 | Pack audit | 2026-10-24 | Reported | Unknown | Watchlist | 2027-04-24 | Age alone, no trigger yet |
 | 2026-10-24 | Example Snacks (fictional) | Funding | Raise announced 14 months ago | Business press | 2025-08-11 | Stale | Closed | Rejected | 2027-04-24 | Kept as context only |

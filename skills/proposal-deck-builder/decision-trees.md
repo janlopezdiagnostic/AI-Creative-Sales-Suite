@@ -16,7 +16,7 @@ START: How will this be decided?
    - NO → Exit C: **DECK ONLY**, plus the credentials one-pager as the leave-behind. Record in Assumptions that no approval document exists yet; the SOW follows selection.
 - Modifiers, applied after the exit:
   - RFP or tender with a stated format: their format overrides this tree. Go to Tree 4.
-  - Small job (single phase, fee at the studio's lower band, existing relationship): default to the one-page proposal template regardless of the tree, unless the client asked for a meeting.
+  - Small job (single phase, fee at the studio's lower band, existing relationship): default to the standard proposal template compressed onto one page (see example 8) regardless of the tree, unless the client asked for a meeting.
   - Founder buyer, first project, fast decision: favour the document; founders approve from paper at midnight, not from decks.
 
 ## Tree 2. Spec creative demanded → the alternatives ladder

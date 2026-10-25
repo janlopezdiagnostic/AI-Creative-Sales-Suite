@@ -14,14 +14,14 @@ Plus the case-study library (condensed): Entry A, full identity and brand system
 
 ## Reasoning
 
-- Match scoring: Category match 2, Entry A is consumer goods, adjacent to homeware rather than identical. Format match 3, identity and system work is exactly the hypothesised need. Buyer match 3, both proof entries were bought by founders, matching the founder buyer in the brief. Timing match 2, the leadership signal is strong and recent, but the rebrand language itself is reported and directional, not confirmed.
-- Overall: strong on buyer and format, honest caution on the trigger. The copy must therefore not state a rebrand as fact. It can cite the confirmed hire and reference the retail expansion context as reported, without upgrading the podcast comment into an announcement.
+- Match scoring, on the six axes in the playbook (each 0 to 3, total out of 18), scored on Entry A: Category proximity 2, consumer goods, adjacent to homeware rather than identical. Format and deliverable match 3, identity and system work is exactly the hypothesised need. Buyer-type match 3, Entry A was bought by a founder, matching the founder buyer in the brief. Outcome relevance 2, Entry A's identity launched and rolled out across DTC and retail and that is citable, but no retail performance result is recorded. Recency 2, no completion date is recorded in the condensed entry. Proof asset quality 2, the system work exists to show, though its assets are not itemised in the entry. Total 14 of 18, grade Strong, at the bottom of the band.
+- Overall: the match grades Strong, with honest caution on the trigger. The leadership signal is strong and recent, but the rebrand language itself is reported and directional, not confirmed. The copy must therefore not state a rebrand as fact. It can cite the confirmed hire and reference the retail expansion context as reported, without upgrading the podcast comment into an announcement.
 - Tone decision: founder buyers respond to direct, peer-level copy and penalise corporate process language. The set below is plain, short, and specific. No flattery about the brand, no vision talk, no deck offer in the opener.
 - Channel decision: email to the founder, with the Head of Brand named in reasoning as the follow-up contact if the founder forwards it. The ask is a short conversation, not a credentials presentation.
 
 ## Output: outreach set for human review (drafts only, human sends)
 
-**Email opener (82 words)**
+**Email opener (72 words)**
 Subject: Northlight brand, next phase
 
 Hi Daniel,
@@ -33,19 +33,21 @@ We built a full identity and system for a founder-led consumer brand that launch
 Worth a 20-minute conversation about what retail readiness tends to surface first?
 
 Best,
-Common Practice
+Jonas Feld, Founder, Common Practice
 
 **Bump 1, day 5: teardown insight**
 Subject: One retail readiness note
 
-Hi Daniel, one pattern from identity work ahead of retail: packaging and shelf presence expose every inconsistency in a DTC-first system, type scale, colour, and naming, all at once. In the Entry A rollout, auditing the system against a retail fixture early was the step that saved rework later. Happy to share what that audit covers, in one page.
+Hi Daniel, one pattern from identity work ahead of retail: packaging and shelf presence expose every inconsistency in a DTC-first system, type scale, colour, and naming, all at once. In the Entry A rollout, we audited the system against a retail fixture early, before the retail launch. Happy to share what that audit covers, in one page.
 
 Note for the human sender: in the sent version, replace the words Entry A with the actual case-study client name as permitted by the library. The draft above keeps the placeholder so the permission check stays visible in review.
 
 **Bump 2, day 12: new signal**
 Subject: Retail timing
 
-Hi Daniel, saw Northlight listed in a retailer's new-brand preview this week, which suggests the retail conversation is moving. If identity decisions are being sequenced now, the order matters: architecture and naming before artwork, or artwork gets rebuilt. A short sequencing chat may be useful even if you work with another studio.
+Hi Daniel, [NEW SIGNAL: what has changed since the opener, with its source and date, goes here]. If identity decisions are being sequenced now, the order matters: architecture and naming before artwork, or artwork gets rebuilt. A short sequencing chat may be useful even if you work with another studio.
+
+Note for the human sender: a follow-up may only use a signal the seller actually has, sourced and dated the way a brief signal is. The brief for this account holds no second signal, so this bump is drafted around a placeholder. Put a real signal in before sending, or skip this bump and go to Bump 3.
 
 **Bump 3, day 20: clean break-up**
 Subject: Should I step back?

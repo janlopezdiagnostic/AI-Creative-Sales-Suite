@@ -11,7 +11,7 @@ All brands, people, and prices in this example are fictional and illustrative. P
 
 ## Arc chosen
 
-Redesign arc: shelf moved, range did not, evidence, proof, calm plan against the reset. Proposal runs the full nine sections; deck is 14 pages.
+Redesign arc: shelf moved, range did not, evidence, proof, calm plan against the reset. Proposal runs the full ten sections; deck is 14 pages.
 
 ## Proposal outline (document)
 

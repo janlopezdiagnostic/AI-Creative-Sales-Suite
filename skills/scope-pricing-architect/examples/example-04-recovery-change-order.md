@@ -6,7 +6,7 @@ All brands, people, and prices in this example are fictional and illustrative. P
 Hartwell Studio. Currency USD, prices exclude tax.
 - Creative director 950/day, senior designer 750/day, designer 550/day, artworker 450/day, project manager 500/day
 - Additional revision round at artwork phase: 600 per round. Change order rate: standard day rates
-- Source files: excluded by default, buyout priced at 1,900 for a single design family
+- Source files: excluded by default, buyout priced at 1,500 for a single design family
 
 ## How it went wrong (the situation the skill is handed)
 Tern and Co, a pet food brand, was quoted 6,000 verbally by a previous account manager for "packaging for the range", understood by the client as 10 SKUs. Nothing was signed beyond a one line email: "Range packaging, 6,000, starting Monday." No revision cap, no SKU appendix, no files clause.
@@ -22,7 +22,7 @@ Six weeks in: the range is now 16 SKUs. Artwork is on its fifth round of feedbac
 - Additional SKUs, 6: per SKU designer 0.5 day (275) + artworker 0.25 day (112.50) = 387.50; x 6 = 2,325
 - Forward artwork rounds beyond the included allowance: priced at 600 per round, quoted as used (none billed yet)
 - Change order 1 total: 2,325. Revised project total: 8,325
-- Source file buyout, if the client proceeds: 1,900 (one design family), plus a half day handover session at designer rate 275 if wanted
+- Source file buyout, if the client proceeds: 1,500 (one design family), plus a half day handover session at designer rate 275 if wanted
 
 ## Output: reset conversation script and change order excerpt
 Script, opening: "I owe you a cleaner setup than the one you got. We quoted the range when it was 10 SKUs and we never wrote down rounds or files, that is on us. Your 6,000 covers that original job and we will honour it. The range is 16 now, and the files question needs an answer in writing. Here is a one page scope for the project as it stands, a change order for the 6 extra SKUs at our standard adaptation rate, with the maths shown line by line from the rate sheet, and the file buyout price if you want your team to handle tweaks. Nothing changes about the creative direction, this is just the paperwork catching up with the project."

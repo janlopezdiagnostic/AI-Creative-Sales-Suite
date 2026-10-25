@@ -64,7 +64,7 @@ Wrong move: Participating "to see the market", then discovering that a number bi
 
 **13. Most favoured customer clause**
 Trigger: Framework language granting the client your "best available pricing" or rates "no less favourable than any other client's".
-Right move: Decline, on the confidentiality rule as much as the economics: the studio cannot warrant comparisons against terms it will not disclose, including to auditors in most forms. Offer instead a defined rate card with a review date and volume structures based on their own spend. Escalate; counsel reviews any surviving version.
+Right move: Decline, on the confidentiality rule as much as the economics: the studio cannot warrant comparisons against terms it will not disclose, and a request routed through an auditor does not change that rule on its own. (Drafting aid only: what confidentiality duties apply here depends on the contracts in force, so have your adviser check before anything is disclosed or refused on legal grounds.) Offer instead a defined rate card with a review date and volume structures based on their own spend. Escalate; counsel reviews any surviving version.
 Wrong move: Signing it as boilerplate. It converts every future deal you do into this client's renegotiation trigger, and it puts you in breach the first time anyone gets a better structure for legitimate reasons.
 
 **14. Scope by spreadsheet**
@@ -79,7 +79,7 @@ Wrong move: Competing on price against someone's brother in law. You will lose c
 
 **16. Free pilot or free first SKU**
 Trigger: "Do the first pack free; if it lands, the range is yours." Smaller than a full spec ask, framed as low risk.
-Right move: It is spec work with a smaller hat. Offer the paid version: first SKU priced normally, or inside a paid discovery, with the range structure agreed in writing before the pilot starts (rates, volumes, decision date, what "lands" means). If the pilot terms cannot be written down, the range promise cannot be believed.
+Right move: It is still unpaid spec work. Offer the paid version: first SKU priced normally, or inside a paid discovery, with the range structure agreed in writing before the pilot starts (rates, volumes, decision date, what "lands" means). If the pilot terms cannot be written down, the range promise cannot be believed.
 Wrong move: Accepting for the relationship and discovering the range went to tender anyway, with your pilot as the quality benchmark in the brief.
 
 **17. Payment in product, equity, or introductions (negotiation edition)**

@@ -134,7 +134,7 @@ The failure mode to avoid is work now, paperwork later. It feels client friendly
 ## Part 8. Payment schedules and late terms
 
 Tie payments to milestones the client controls the timing of (approvals), not only to calendar dates the studio controls. Standard pattern:
-- Deposit on signing, before work starts. No deposit, no start; this single rule prevents most bad debt in small studios.
+- Deposit on signing, before work starts. No deposit, no start. This one rule removes the most common route to bad debt in a small studio: work done for a client who was never committed.
 - Milestone payment at concept approval.
 - Milestone payment at artwork approval.
 - Balance before release of final production files. File release is the studio's one clean leverage point; use it calmly and state it in the scope so it is never a surprise.

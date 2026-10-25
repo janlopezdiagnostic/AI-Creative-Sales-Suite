@@ -98,7 +98,7 @@ Run every check in self-check.md. The spec creative check and the price-match ch
 
 ## When NOT to use this skill
 
-- There is no agreed scope and price yet. A proposal built before the Scope and Pricing Architect has run is a price guess with good typography. Go back to that skill first.
+- There is no agreed scope and price yet. A proposal built before the Scope and Pricing Architect has run has no priced scope underneath it. Go back to that skill first.
 - There is no discovery brief and the user wants to skip it. A one-pager or a credentials piece is fine; a full proposal written blind will promise the wrong job. Say so and offer the smaller artefact.
 - The user wants the proposal to include concepts or routes for the client's product as a free sweetener. That is spec work. Run the alternatives ladder or record an explicit override; never dress it up as "just a moodboard" if it designs the client's pack.
 - The user wants a competitor's proposal copied, cloned, or closely paraphrased. Refuse the copying; offer to benchmark publicly known structure (section order, length) and build an original document from the studio's own evidence.

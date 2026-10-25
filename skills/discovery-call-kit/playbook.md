@@ -34,7 +34,7 @@ Strong answers name an event with a date: a range review, a listing at risk, a n
 - "Who signs at this value, and have they seen projects like this before?"
 - "Has procurement got a process we should know about early, panels, onboarding, terms?"
 
-You are mapping the buying centre: user, influencer, economic buyer, gatekeeper. Most creative deals die because the seller sold to an influencer and met the economic buyer for the first time in a negotiation. Every unnamed role is an access task in the follow-up plan, not a footnote.
+You are mapping the buying centre: user, influencer, economic buyer, gatekeeper. A deal is at risk when the seller has only sold to an influencer and meets the economic buyer for the first time in a negotiation. Every unnamed role is an access task in the follow-up plan, not a footnote.
 
 ### 3. Budget reality
 
@@ -133,7 +133,7 @@ Raise flags as observations, not accusations, and raise them on the call where p
 
 ## Running prep when there is no time
 
-Sometimes the call is in an hour and the research brief is two lines long. Prep anyway, shorter. The minimum viable pack is five lines: the hypothesis (even if it is a guess, labelled as one), the three must-establish questions, the two matched proof points, the price-question pivot line scripted word for word, and the planned close. Twenty honest minutes beats a skipped prep every time, because the failure modes this skill exists to prevent (ballparks, free concepts, a vague ending) all happen in unprepared calls, and all five are cheapest to prevent before the call starts. What gets cut under time pressure is background reading, never the pivot lines or the close.
+Sometimes the call is in an hour and the research brief is two lines long. Prep anyway, shorter. The minimum viable pack is five lines: the hypothesis (even if it is a guess, labelled as one), the three must-establish questions, the two matched proof points, the price-question pivot line scripted word for word, and the planned close. Twenty honest minutes beats a skipped prep every time, because the failure modes this skill exists to prevent (ballparks, free concepts, a vague ending) all happen in unprepared calls, and all three are cheapest to prevent before the call starts. What gets cut under time pressure is background reading, never the pivot lines or the close.
 
 ## The extraction pass, field by field
 
@@ -143,7 +143,7 @@ Extraction is a discipline, not a summary. Work through the transcript or notes 
 
 **Deliverables.** Harvest nouns and numbers, ruthlessly. "The range" is not a deliverable. "Nine core SKUs, two seasonal editions undecided" is. When the buyer used a number loosely ("about twenty"), record the looseness; the scoping skill would rather price a stated range with assumptions than discover the looseness in week three.
 
-**Budget.** Read the money passages three times. First pass: what figure, if any, did the buyer actually attach to this project. Second pass: what history was offered, and is it labelled. Third pass: what did the seller say, and does the follow-up need to unwind any of it. Most extraction errors in this suite's testing live in this field, because money talk is where paraphrase most easily becomes invention.
+**Budget.** Read the money passages three times. First pass: what figure, if any, did the buyer actually attach to this project. Second pass: what history was offered, and is it labelled. Third pass: what did the seller say, and does the follow-up need to unwind any of it. Extraction errors cluster in this field, because money talk is where paraphrase most easily becomes invention.
 
 **Decision process.** Reconstruct the chain from fragments: "Priya and I decide, Finance signs over fifty" is a chain with a threshold and a gap (the basis of "fifty"), and the extraction should present it exactly that way, gaps visible, rather than smoothing it into "Finance approves".
 

@@ -2,7 +2,7 @@
 
 All brands, people, and events in this example are fictional. Facts are invented for training so the method can be judged without real company data.
 
-**Scenario:** The Marlow Botanics founder (fictional, from Example 5's account) agreed to the testimonial. Two months later, at the kickoff of a second project she commissioned without a competitive pitch, the user spots that she is an investor-adjacent mentor to the founder of another skincare brand, Halden & Grey (fictional), whose dated trade coverage shows a first national retail listing coming this year: exactly the range-system problem Marlow just solved.
+**Scenario:** The Marlow Botanics founder (fictional, from Example 5's account) agreed to the testimonial. Seven months later, at the kickoff of a second project she commissioned without a competitive pitch, the user spots that she is an investor-adjacent mentor to the founder of another skincare brand, Halden & Grey (fictional), whose dated trade coverage shows a first national retail listing coming this year: exactly the range-system problem Marlow just solved.
 
 ## Raw input (as received)
 
@@ -10,7 +10,7 @@ All brands, people, and events in this example are fictional. Facts are invented
 
 ## Reasoning
 
-- Tree 3: evidence is current and behavioural (a repeat commission is the strongest satisfaction signal there is), the peak is live (new project kickoff goodwill), and the prior ask was two months ago but was a different, lighter ask that was granted; the one-ask rule binds per occasion, and this is a new occasion with a fresh peak. Verdict: ASK NOW, with care, because the introduction is the heaviest ask on the ladder.
+- Tree 3: evidence is current and behavioural (a repeat commission is a strong satisfaction signal), the peak is live (new project kickoff goodwill), and the last ask to this client was seven months ago, more than the two quarters Tree 3 requires after any earlier ask. Verdict: ASK NOW, with care, because the introduction is the heaviest ask on the ladder.
 - Target quality: named person, named company, real fit evidenced by dated coverage, and a defensible benefit line for the target (a relevant conversation about a listing they have just won). The mentor relationship itself is sourced to a public conference listing, not assumed from gossip.
 - Effortlessness: the forwardable blurb is written, the decline path is explicit, and no incentive is attached or hinted.
 
@@ -32,4 +32,4 @@ Mandatory follow-ups logged with the ask: same-day response if the introduction 
 
 ## Critique
 
-What this example does right: the ask was earned by delivered work and timed to demonstrated, current satisfaction, and the target was chosen by evidence rather than by the size of the giver's network. What to watch: two asks to one client inside a quarter is near the ceiling even when both are granted; the tracker now shows this account as asked-out until a new peak, probably the phase-two launch, and the discipline is to honour that even if another tempting target appears next month.
+What this example does right: the ask was earned by delivered work and timed to demonstrated, current satisfaction, and the target was chosen by evidence rather than by the size of the giver's network. What to watch: this is the second ask to this client in under a year, spaced to obey Tree 3, and it makes the account asked-out until a new peak at least two quarters on, probably the phase-two launch. The discipline is to honour that even if another tempting target appears next month.

@@ -20,7 +20,7 @@ The client has now reopened the conversation for a second range. The scope work 
 
 ## The rebuilt proposal (shape)
 
-Nine sections per the template. Mirror written from the new discovery conversation, including the client's own sentence about why they reopened the conversation, used with their agreement in the call. Proof: the pet food case from another client is imagery only (permission does not cover this use), so the lead case is a household range redesign with a citable outcome, chosen for architecture rhyme. Timeline page built on the timeline template with the printer's standard proof cycle written in as a named supplier lane, flagged [TO CONFIRM] against the client's actual printer dates rather than assumed. Cover email names the version (v1 of the new engagement), states plainly that the studio rebuilt its document process after the debrief, in one line, without grovelling.
+Ten sections per the template. Mirror written from the new discovery conversation, including the client's own sentence about why they reopened the conversation, used with their agreement in the call. Proof: the pet food case from another client is imagery only (permission does not cover this use), so the lead case is a household range redesign with a citable outcome, chosen for architecture rhyme. Timeline page built on the timeline template with the printer's standard proof cycle written in as a named supplier lane, flagged [TO CONFIRM] against the client's actual printer dates rather than assumed. Cover email names the version (v1 of the new engagement), states plainly that the studio rebuilt its document process after the debrief, in one line, without grovelling.
 
 ## Critique
 

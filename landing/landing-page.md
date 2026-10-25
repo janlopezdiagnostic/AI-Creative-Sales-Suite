@@ -10,11 +10,11 @@ Status: draft copy. Written for a non-technical reader: plain English, problem f
 
 Ask a general AI tool to price a packaging job and you get a confident number with nothing underneath it: no revision rounds, no answer for when the client adds six more products, no usage rights, no source files. Then procurement asks for 30 percent off, and the only place that number can go is down.
 
-The Creative Sales Suite fixes that. It is a set of instruction files you add to Claude, ChatGPT, or Gemini. From then on, the assistant sells the way an experienced creative studio salesperson does: with your portfolio, your prices, and your terms.
+The Creative Sales Suite is built to help with that. It is a set of instruction files you add to Claude, ChatGPT, or Gemini. From then on, the assistant sells the way an experienced creative studio salesperson does: with your portfolio, your prices, and your terms.
 
 Built for founders, sales execs, and account execs at packaging, brand and product design, fashion, and agency teams.
 
-Made by someone who works in tech, for the creative people in his life: his wife, a designer, and friends in creative fields who are not technical and just want a practical way to start using AI in their everyday work. Free, because that is the point.
+Made by someone who works in tech, for his wife (a designer) and friends in creative fields. A free starting place for non-technical people who want AI to save them time on everyday work.
 
 [Get it free on GitHub] [See what it does]
 
@@ -56,7 +56,7 @@ Two rules are built into every file. The assistant is instructed to never invent
 5. **Price the job without guessing.** Three options from your rates, with rounds, extras, and exclusions written down, so the price can defend itself.
 6. **Answer "too expensive" and procurement.** Discount demands, free pitch requests, forms and terms. Trade scope, keep your rates, offer nothing unapproved.
 7. **Turn a finished project into monthly work.** A retainer offer built on what the client keeps needing, priced from your rates, with a fair exit for both sides.
-8. **Restart a stalled deal, or earn an introduction.** Follow-ups based on something that really changed, and introduction requests timed to peak satisfaction. If a client ever said "do not contact us," the assistant will not draft a single word for them.
+8. **Restart a stalled deal, or earn an introduction.** Follow-ups based on something that really changed, and introduction requests asked at the right moment, when a client is happy with finished work. If a client ever said "do not contact us," the assistant will not draft a single word for them.
 
 Plus an industry file for your world: packaging, brand and product design, fashion, or agencies. Its buyers, its calendar, its pricing habits.
 

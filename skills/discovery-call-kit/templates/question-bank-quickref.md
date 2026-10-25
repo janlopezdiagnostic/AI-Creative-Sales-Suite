@@ -39,7 +39,7 @@ One page, for the desk during the call. Full reasoning is in `playbook.md`.
 - "What would make you fire a studio in month one?"
 
 ## Pivots (verbatim rescue lines)
-- Price on the spot: "I can give you the structure now and a scoped number by [date]. A number today would be a guess wearing a suit."
+- Price on the spot: "I can give you the structure now and a scoped number by [date]. A number today would be a guess."
 - Concepts requested: "Concepts cold would not represent what we would actually do. The honest version is a paid discovery: [scope], fixed fee, credited if we proceed."
 - Impossible date: "Let us do the arithmetic together: shelf date minus print minus artwork lock. Here are the three levers: scope, sequence, rush."
 - Signer absent: "Can we present the proposal to them together? I would rather hear their questions first-hand."
