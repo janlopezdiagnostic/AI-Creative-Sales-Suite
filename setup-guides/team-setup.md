@@ -1,12 +1,12 @@
-# Setup Guide: Team Setup (Studio Tier)
+# Setup Guide: Team Setup
 
-How a 5-25 person studio organises the Creative Sales Suite so five people get one consistent system, not five personal prompt collections. This assumes the Studio tier; the structure scales down to a solo founder and up to an Agency License on the same rules.
+How a 5-25 person studio organises the Creative Sales Suite so a team gets one consistent system, not a set of personal prompt collections. The same structure scales down to a solo founder.
 
 ## One shared Sales Suite project
 
 Create one project per assistant platform your studio actually uses (a Claude Project, a ChatGPT project, or a shared workspace folder for Cursor and agent setups). Name it "Sales Suite" and load it once, centrally:
 
-- The core skills your tier includes, at their current versions.
+- The core skills, at their current versions.
 - Your vertical layer file(s).
 - The current studio fact sheet and the current rate & rules sheet (see ownership below).
 - Your templates library.
@@ -41,16 +41,15 @@ The shared Sales Suite project is the engine room, not the client file.
 
 Keep the loop fast: a draft waiting more than a working day for review is a process failure, because the suite's whole point is same-day scopes and replies.
 
-## Seats and licence etiquette
+## Sharing and license
 
-- **Solo / Founder ($179):** one person. Loading the suite on your own machines and accounts is the licence. Do not hand the files to a partner studio.
-- **Studio ($449):** up to 5 named seats. The five are people, not a shared login passed around the office. When someone leaves, their seat transfers to their replacement; tell us and we note it.
-- **Agency License ($990):** up to 15 named seats on the same basis.
-- Sharing files outside your seat count, or posting them publicly, is the one thing that ends the licence. Asking for extra seats is cheap; piracy is neither.
+The suite is free under the MIT license. There are no seats, no tiers, and no limit on how many people at your firm use it. Share it inside your firm, share the shared project the way this guide describes, and pass it on outside your firm if it could help someone else. Keep the copyright and license notice in copies, as MIT asks.
+
+What still matters is consistency, not permission: one shared version in the shared project, so the whole team is working from the same instructions.
 
 ## When new suite versions land
 
-Suite updates arrive as versioned drops (Studio tier includes 12 months of updates). On each drop:
+Updates land in the GitHub repo. On each update you want to adopt:
 
 1. The suite owner (name one: usually the fact sheet owner) reads the changelog and decides the swap date. Updates are never swapped mid-pursuit on a live account unless the changelog fixes something that account depends on.
 2. Replace skill files in the shared project wholesale; do not merge by hand. Your fact sheet, rate sheet, and client projects are yours and are never touched by an update.

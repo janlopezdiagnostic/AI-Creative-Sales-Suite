@@ -1,6 +1,6 @@
 # Landing Page Copy: Creative Sales Suite
 
-Status: draft for the Carrd one-pager. Written for a non-technical buyer: plain English, problem first, no jargon. Every claim here must stay true when the paid tiers launch; no testimonials, no revenue promises, no invented results. Prices match README and PRODUCT_PLAN.
+Status: draft copy. Written for a non-technical reader: plain English, problem first, no jargon. No testimonials, no revenue promises, no invented results. The whole suite is free under the MIT license.
 
 ---
 
@@ -14,7 +14,9 @@ The Creative Sales Suite fixes that. It is a set of instruction files you add to
 
 Built for founders, sales execs, and account execs at packaging, brand and product design, fashion, and agency teams.
 
-[Get the free skill] [See what it does]
+Made by someone who works in tech, for the creative people in his life: his wife, a designer, and friends in creative fields who are not technical and just want a practical way to start using AI in their everyday work. Free, because that is the point.
+
+[Get it free on GitHub] [See what it does]
 
 ## The problem, plainly
 
@@ -64,14 +66,9 @@ The normal way to use the suite is copy and paste: the client email, the call no
 
 If your studio is more technical, the assistant can also read from your design app, your CRM, or your documents directly once connected. That is an optional extra with its own setup guide. It is not needed, and it is not the pitch.
 
-## Pricing
+## Cost
 
-- **Free:** the research skill and the packaging industry file, on GitHub.
-- **Solo / Founder, $179:** all 8 skills, 1 industry file, for 1 person.
-- **Studio, $449:** everything in Solo, plus all industry files, the template library, the team setup guide, and 12 months of updates, for up to 5 people.
-- **Agency License, $990:** everything in Studio, for up to 15 people, with 2 update passes a year (two refreshed editions of the files) instead of the 12-month window.
-
-One-time. Files, not a subscription. No app to learn.
+Free. All 8 skills, all 4 industry files, the guides, and the templates, on GitHub under the MIT license. No tiers, no seat limits, no subscription, no paid version.
 
 ## Honest limits
 
@@ -91,10 +88,10 @@ The assistant follows these files carefully, and they are built to show their wo
 
 **Why not just write my own prompts?** A prompt is one paragraph of good intentions. These files carry the whole job: the steps, the awkward questions, the pricing structure, the unusual cases, and a self-check, every session, without you re-explaining your studio each time.
 
-**Refunds?** [TO CONFIRM at listing: state the actual Gumroad refund policy chosen.]
+**What does it cost?** Nothing. It is free under the MIT license. Use it, adapt it, share it.
 
 ## Footer CTA
 
-Start with the free skill and one real brand you have been meaning to pitch. If the brief does not change how you see that account, the paid suite is not for you either.
+Start with the research skill and one real brand you have been meaning to pitch. If the brief changes how you see that account, try the next job you need. Pass it on to someone it could help.
 
-[Get the free skill]
+[Get it free on GitHub]

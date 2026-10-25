@@ -6,6 +6,16 @@ For the people who sell packaging, brand and product design, fashion, and agency
 
 New here? Read **[START-HERE.md](START-HERE.md)** first. Five minutes, plain English, no technical knowledge needed.
 
+## Why I made this
+
+I work in tech. My wife is a designer, and a lot of my friends work in creative fields.
+
+I kept watching smart, talented people do their selling the slow way, not because they were bad at it, but because nobody had shown them how to put AI to work on the everyday parts of the job. The research before a pitch. The first email. Pricing a project without guessing.
+
+So I built this for them, and for anyone like them: people who are not technical, who did not grow up prompting AI tools, and who just want a practical way to start using AI in their daily workflow and get more efficient at the work they already do well.
+
+It is free. Use it, share it, pass it on to a friend who could use it.
+
 ## The problem
 
 General AI tools write sales work the way software is sold. They do not know how creative work is actually bought and priced, so their drafts:
@@ -55,14 +65,11 @@ Every skill comes with the same backup, all written for the AI rather than for y
 
 **The connected way is an optional extra.** If your assistant is connected to the tools you already use (your CRM, your documents, your design app), the skills can read from them directly, for example reading your rate card from your documents or counting artwork files in a design file instead of you listing them. Studios with someone technical can set this up using the guide in `setup-guides/`. It is never required, and the suite never pretends a file can click inside an app by itself.
 
-## Pricing
+## Cost
 
-- **Free:** Skill 1 (Account Research Brief) + the packaging industry file, here.
-- **Solo / Founder, $179:** all 8 skills, 1 industry file, for 1 person.
-- **Studio, $449:** everything in Solo, plus all industry files, the team setup guide, the proposal and statement of work (SOW) template library, and 12 months of updates, for up to 5 people.
-- **Agency License, $990:** everything in Studio, for up to 15 people, with 2 update passes a year (two refreshed editions of the files) instead of the 12-month window.
+Free. All of it.
 
-One-time. Files, not a subscription. No app to learn. No bespoke or done-for-you tier.
+All 8 skills, all 4 industry files, the setup guides, and the templates are in this repo, at no cost, with no tiers, no seat limits, and no paid version waiting behind it. If it helps you, the only thing I would ask is that you pass it on to someone else it could help.
 
 ## Honest limits
 
@@ -72,4 +79,6 @@ One-time. Files, not a subscription. No app to learn. No bespoke or done-for-you
 
 ## License
 
-The free skill here is under the MIT license (see `LICENSE`) and is genuinely free to use in your studio. Paid tiers are separate downloads with their own license terms; nothing in the paid packs is required to make the free skill work.
+The whole suite is under the MIT license (see `LICENSE`). Use it in your studio, adapt it to your rates and your terms, and share it freely. Everything the skills help you produce (briefs, emails, proposals, scopes, replies) is yours.
+
+Attribution is appreciated but not required beyond what the MIT license asks: keep the copyright and license notice in copies. If you improve a skill, consider sharing the improvement back so the next studio benefits too.
