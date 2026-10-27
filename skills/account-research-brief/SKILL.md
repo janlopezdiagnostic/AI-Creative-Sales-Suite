@@ -1,3 +1,9 @@
+---
+name: account-research-brief
+description: Research a named brand or account before pitching creative work. Use when the user asks whether a brand is worth pitching, to research a prospect, or to build an account brief. Produces sourced, dated buying signals, a portfolio fit score, a stakeholder map, and a pursue, watchlist, or do not pursue recommendation. Never invents signals or facts.
+license: MIT
+---
+
 # Account Research Brief
 
 > **Start here, in plain English.** This skill tells you whether a brand is worth pitching, and why. You get a short brief with the evidence, a fit score, and a clear answer: pursue them, watch them, or walk away.

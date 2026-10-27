@@ -2,6 +2,8 @@
 
 You do not need to learn how to "prompt." Upload the files named for the job, paste the matching sentence, then paste whatever material you have (a client email, call notes, a price list, a brief). Short and messy is fine.
 
+"The core files" of a skill means the files in its folder named SKILL.md, playbook.md, decision-trees.md, and self-check.md, plus everything in its templates folder, 10 files in total. If you are pricing a job, add that skill's examples folder as well; the examples calibrate the assistant's work estimates.
+
 ## Set up (once)
 
 Upload: your studio fact sheet (blank is fine).
@@ -9,7 +11,7 @@ Say: "Interview me one question at a time and fill in my studio fact sheet. Keep
 
 ## Research a brand before you pitch
 
-Upload: all the files in the Account Research Brief folder (the whole skill, not just SKILL.md), your fact sheet, your industry file from `verticals/`.
+Upload: the core files of the Account Research Brief skill (SKILL.md, playbook, decision-trees, self-check, and the templates folder), your fact sheet, your industry file from `verticals/`.
 Say: "Research [brand name] and tell me: is there a real reason they would buy creative work now, do we have the right work to win it, and should we pursue them, watch them, or walk away? Show me where each fact came from and when. If you cannot check something, mark it [UNVERIFIED] instead of guessing."
 
 ## Write a first email
@@ -19,12 +21,12 @@ Say: "Write a first email to [name or role] at [brand]. Use only the case studie
 
 ## Prepare for a first call
 
-Upload: all the files in the Discovery Call Kit folder (the whole skill, not just SKILL.md), your fact sheet, anything you know about the client.
+Upload: the core files of the Discovery Call Kit skill (SKILL.md, playbook, decision-trees, self-check, and the templates folder), your fact sheet, anything you know about the client.
 Say: "I have a first call with [brand] on [date]. Prepare me: what to ask, what to listen for, and what would make this project not worth taking. Keep it to one page."
 
 ## Make sense of a call you just had
 
-Upload: all the files in the Discovery Call Kit folder (the whole skill, not just SKILL.md), your fact sheet.
+Upload: the core files of the Discovery Call Kit skill (SKILL.md, playbook, decision-trees, self-check, and the templates folder), your fact sheet.
 Say: "Here are my notes from the call. Turn them into a clear brief: what they need, who decides, budget and timing if they said, and mark anything they did not say as [NOT STATED]. Then tell me the verdict: proposal, paid discovery first, keep in touch, or decline politely."
 
 ## Build a proposal
@@ -34,12 +36,12 @@ Say: "Turn these notes into a proposal. Use only the prices from the scope I gav
 
 ## Price a project
 
-Upload: all the files in the Scope and Pricing Architect folder (the whole skill, not just SKILL.md), your fact sheet, your rate card or price list, the brief.
+Upload: the core files of the Scope and Pricing Architect skill (SKILL.md, playbook, decision-trees, self-check, and the templates folder), your fact sheet, your rate card or price list, the brief.
 Say: "Price this project in three options: a smaller one, the one you recommend, and a fuller one. Use only my rates. Anything you need from me, mark [TO CONFIRM] instead of inventing a number. Include how many revision rounds are in, what extra work costs, and what is not included."
 
 ## Answer a pushback
 
-Upload: all the files in the Objection and Procurement Desk folder (the whole skill, not just SKILL.md), your fact sheet, your rate card, the priced scope.
+Upload: the core files of the Objection and Procurement Desk skill (SKILL.md, playbook, decision-trees, self-check, and the templates folder), your fact sheet, your rate card, the priced scope.
 Say: "The client just wrote this: [paste their email]. Help me reply. Trade scope if we must, but do not cut my rates, and do not offer anything I have not approved."
 
 ## Turn a finished project into ongoing work

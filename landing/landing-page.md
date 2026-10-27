@@ -1,6 +1,6 @@
 # Landing Page Copy: Creative Sales Suite
 
-Status: draft copy. Written for a non-technical reader: plain English, problem first, no jargon. No testimonials, no revenue promises, no invented results. The whole suite is free under the MIT license.
+Status: this copy is now live as the project website (built from it in `docs/index.html`, served by GitHub Pages). Written for a non-technical reader: plain English, problem first, no jargon. No testimonials, no revenue promises, no invented results. The whole suite is free under the MIT license.
 
 ---
 

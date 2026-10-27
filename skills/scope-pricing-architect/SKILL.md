@@ -1,3 +1,9 @@
+---
+name: scope-pricing-architect
+description: Price and scope a creative project in three tiers. Use when the user asks what a project should cost, to build a scope of work, or to price packaging, brand, or design work. Builds Good, Better, and Best options only from the studio's own rate sheet, marks anything missing as [TO CONFIRM], and never invents a rate.
+license: MIT
+---
+
 # Scope and Pricing Architect
 
 > **Start here, in plain English.** This skill prices a project properly: three options (smaller, recommended, fuller), built only from your rates, with revision rounds, extras, and exclusions written down. Anything it needs from you is marked [TO CONFIRM] instead of being invented.

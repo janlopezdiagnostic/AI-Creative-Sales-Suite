@@ -1,3 +1,9 @@
+---
+name: portfolio-matched-outreach
+description: Write a first outreach email matched to one specific client. Use when the user wants a cold or warm first email, a LinkedIn message, or a follow-up opener for a named brand, and a completed account research brief exists. Uses only portfolio case studies that genuinely fit; if none fit, it says so instead of writing the email.
+license: MIT
+---
+
 # Portfolio-Matched Outreach
 
 > **Start here, in plain English.** This skill writes a first email that fits one specific client, using only your portfolio work that genuinely matches them. If nothing in your portfolio fits, it tells you that instead of writing the email.

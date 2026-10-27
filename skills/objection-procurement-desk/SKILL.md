@@ -1,3 +1,9 @@
+---
+name: objection-procurement-desk
+description: Answer hard client replies in creative services sales. Use when a client says the work is too expensive, asks for a discount, requests a free pitch, or when procurement sends forms, benchmarking, or tough payment terms. Trades scope instead of cutting rates and offers nothing the studio has not approved.
+license: MIT
+---
+
 # Objection and Procurement Desk
 
 > **Start here, in plain English.** This skill helps you answer the hard replies: too expensive, cut your price, procurement forms, free pitch requests. The approach is steady: trade scope if you must, keep your rates, offer nothing you have not approved.

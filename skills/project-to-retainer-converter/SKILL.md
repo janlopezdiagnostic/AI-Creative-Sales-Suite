@@ -1,3 +1,9 @@
+---
+name: project-to-retainer-converter
+description: Turn a finished creative project into a monthly retainer offer. Use when a project has ended well and the user wants ongoing work, a retainer proposal, or an expansion plan for an existing client. Prices the offer from the work the client actually keeps needing, at the studio's own rates, with a fair exit for both sides.
+license: MIT
+---
+
 # Project to Retainer Converter
 
 > **Start here, in plain English.** This skill turns a finished, successful project into a monthly retainer offer, priced from the work the client actually keeps needing, at your normal rates, with a fair way for either side to end it.

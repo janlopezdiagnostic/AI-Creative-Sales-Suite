@@ -1,3 +1,9 @@
+---
+name: discovery-call-kit
+description: Prepare for and debrief a first sales call with a prospective creative client. Use when the user has a discovery or intro call coming up, or has notes or a transcript from one. Produces a one-page prep pack beforehand and a clear brief afterwards with a verdict: proposal, paid discovery, keep in touch, or decline politely.
+license: MIT
+---
+
 # Discovery Call Kit
 
 > **Start here, in plain English.** This skill prepares you for a first call with a possible client, and afterwards turns your messy notes into a clear brief with an honest verdict: send a proposal, suggest a paid discovery first, keep in touch, or decline politely.

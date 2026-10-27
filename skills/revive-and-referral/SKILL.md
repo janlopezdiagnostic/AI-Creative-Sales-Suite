@@ -1,3 +1,9 @@
+---
+name: revive-and-referral
+description: Restart stalled creative deals and ask happy clients for introductions. Use when a deal has gone quiet, a proposal has been ghosted, or a finished project went well and the user wants a referral or testimonial ask. Builds follow-ups only on something that has genuinely changed, and stops permanently if a client said do not contact.
+license: MIT
+---
+
 # Revive and Referral
 
 > **Start here, in plain English.** This skill restarts deals that went quiet, using something that has genuinely changed, and helps you ask happy clients for introductions at the right moment. If a client has ever said do not contact us, this skill stops there, permanently.

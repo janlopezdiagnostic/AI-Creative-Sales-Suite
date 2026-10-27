@@ -1,3 +1,9 @@
+---
+name: proposal-deck-builder
+description: Turn call notes and a priced scope into a proposal document or deck outline. Use when the user needs a proposal, a pitch deck structure, or a one-page proposal for a creative project, and a priced scope already exists. Uses only the prices from that scope and never includes free design concepts of the client's actual product.
+license: MIT
+---
+
 # Proposal and Deck Builder
 
 > **Start here, in plain English.** This skill turns your call notes and a priced scope into a proposal or deck outline a client can say yes to. It never invents prices and never includes free design work on the client's actual product.

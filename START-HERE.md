@@ -2,6 +2,14 @@
 
 Read this page first. It takes about five minutes. You do not need to read anything else in this folder before you start, and you never need to read the long files at all. They are written for the AI, not for you.
 
+## Get the files (2 minutes)
+
+On the GitHub page, click the green **Code** button, then **Download ZIP**. Unzip it anywhere you can find again. That folder is the suite. If someone sent you a release link instead, download the file called `creative-sales-suite-full.zip` and unzip that. You never need a GitHub account, and there is nothing to install.
+
+## Try it first, with a sample studio (5 minutes)
+
+Before you fill in anything of your own, see it work once. Open `start-here/sample-studio-fact-sheet.md` (a finished fact sheet for a fictional studio, Hartwell Studio), upload it with the core files of the Scope and Pricing Architect skill (see Step 2 for what the core files are), and say: "Price a packaging redesign for 8 SKUs in 2 families, in three options, using only the rates on this fact sheet." Watch for the `[TO CONFIRM]` marks: that is the suite refusing to invent numbers it was not given. When you are ready, do the same job with your own studio below.
+
 ## The problem this solves
 
 General AI tools write sales work the way software is sold. They do not know how creative work is actually bought and priced, so their drafts miss the things that decide your margin: how many rounds of revisions are included, what happens when the client adds products, who owns the final files, and how photography and design usage is paid for. You end up rewriting the draft, or worse, sending it and giving away free work.
@@ -15,11 +23,11 @@ The assistant works from your studio's real information: your portfolio, your pr
 ## Start in three steps (about 20 to 30 minutes, once)
 
 **Step 1: Tell it about your studio, once.**
-Open the fact sheet template (in the `skills` folder, inside `account-research-brief`, then `templates`, the file called `fact-sheet-template.md`) and fill it in: what you do, your best work, your typical project sizes, what you do not do. Short answers are fine, and "unknown" is a fine answer. Not sure how to fill it in? Open `start-here/sample-studio-fact-sheet.md` to see a finished one, or paste the blank sheet into a chat and say: "Interview me one question at a time and fill this in for me."
+Open the fact sheet template (`start-here/fact-sheet-template.md`, right next to the sample) and fill it in: what you do, your best work, your typical project sizes, what you do not do. Short answers are fine, and "unknown" is a fine answer. Not sure how to fill it in? Open `start-here/sample-studio-fact-sheet.md` to see a finished one, or paste the blank sheet into a chat and say: "Interview me one question at a time and fill this in for me."
 
 **Step 2: Add the files to your AI assistant.**
 First, a word about the files: the .md ending just means a text file. You never need to open or edit them; your assistant reads them as they are.
-If your assistant has projects (Claude Projects, ChatGPT projects), create one called "Sales Suite" and upload: your filled-in fact sheet, the industry file for your world from the `verticals` folder, and the files from the folder of the skill you need today, all of them (the main SKILL.md plus its playbook and the rest; the skill uses them together). No projects? A normal chat works too: paste the same files into the chat.
+If your assistant has projects (Claude Projects, ChatGPT projects), create one called "Sales Suite" and upload: your filled-in fact sheet, the industry file for your world from the `verticals` folder, and the **core files** of the skill you need today. The core files are the ones in the skill's folder named `SKILL.md`, `playbook.md`, `decision-trees.md`, and `self-check.md`, plus everything in its `templates` folder. That is 10 files, and they are the set the skill is tested with (see `validation/lean-vs-full-test.md` if you want the receipts). The other files in the folder (the worked examples, edge cases, evals, and tools notes) are reference material: you do not need them for a normal job. One exception: if you are pricing a job, add the skill's `examples` folder too. The examples calibrate how much work the assistant estimates; in the one recorded bundle test that changed the totals a lot, and the receipts are in `validation/lean-vs-full-test.md`. No projects? A normal chat works too: paste the same files into the chat.
 
 **Step 3: Ask for the job you need, in your own words.**
 Use the starter sentences in `start-here/starter-prompts.md`. For example: "Research this brand and tell me if they are worth pitching, and why." Then paste whatever you have: a client email, your call notes, a price list. Messy is fine. That is what the files are built for.
@@ -60,4 +68,12 @@ Use the starter sentences in `start-here/starter-prompts.md`. For example: "Rese
 
 ## If you get stuck
 
-Do not read the long files to fix it. Start a fresh chat, upload the fact sheet and all the files in the skill's folder again (the whole file set, not just SKILL.md), and use the exact starter sentence from `start-here/starter-prompts.md`. Usually, that is the whole fix.
+Do not read the long files to fix it. Start a fresh chat, upload the fact sheet and the skill's core files again (the set in Step 2, not just SKILL.md on its own), and use the exact starter sentence from `start-here/starter-prompts.md`. Usually, that is the whole fix.
+
+## A quick privacy note
+
+You will paste client material into an AI assistant: emails, call notes, your rates. Before you paste, take out anything the client would not want in a third-party tool: personal phone numbers, private addresses, passwords or access details, and anything covered by an NDA you have signed. Client names and project details are usually fine, but when in doubt, replace a name with a role ("the brand director") and keep the real name in your own notes. The suite never asks for credentials and never sends anything anywhere; it drafts, and you send.
+
+## If it does not work, or it helped
+
+You do not need a GitHub account to get help. Email itsjanlopez@gmail.com with the job you tried, the assistant you used, and what went wrong (or right). If you do use GitHub, issues are open too. Improvements people send back get folded into new releases, and the suite stays free.

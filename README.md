@@ -6,6 +6,12 @@ For the people who sell packaging, brand and product design, fashion, and agency
 
 New here? Read **[START-HERE.md](START-HERE.md)** first. Five minutes, plain English, no technical knowledge needed.
 
+## Get it (2 minutes)
+
+Download the ZIP from the [latest release](https://github.com/janlopezdiagnostic/AI-Creative-Sales-Suite/releases/latest) (`creative-sales-suite-full.zip`), or click the green **Code** button on this page and choose **Download ZIP**. Unzip it. That is the whole installation. No GitHub account, no code, nothing to install. Individual skills are also on the release page as their own smaller ZIPs, including a one-file-per-skill version for Claude users (see "Using these as Claude Skills" below).
+
+**Want proof before you commit?** [See one real before-and-after run](start-here/before-after.md): the same pricing brief, the same AI model, with and without these files. And you can try the suite in 5 minutes with the sample studio in `start-here/`, before filling in anything of your own.
+
 ## Why I made this
 
 I work in tech. My wife is a designer, and a lot of my friends work in creative fields.
@@ -39,7 +45,7 @@ Each skill in the suite teaches the assistant one selling job, in depth, with th
 ## How it works (three steps)
 
 1. **Tell it about your studio, once.** Fill in a one-page fact sheet (there is a filled-in sample in `start-here/`). About 15 minutes, one time.
-2. **Add the files to your AI assistant.** Upload the fact sheet, your industry file, and the files of the skill you need (its folder holds the main file plus its playbook; they work together) into a project or a chat. No setup, no code, nothing to install.
+2. **Add the files to your AI assistant.** Upload the fact sheet, your industry file, and the **core files** of the skill you need: `SKILL.md`, `playbook.md`, `decision-trees.md`, `self-check.md`, and everything in its `templates` folder (10 files; they are the tested set, see `validation/lean-vs-full-test.md`). The examples, edge cases, evals, and tools notes in the folder are reference, not required reading for the assistant. If you are pricing a job, add the `examples` folder too: in the recorded bundle test (`validation/lean-vs-full-test.md`), the examples kept the assistant's work estimates calibrated. No setup, no code, nothing to install.
 3. **Ask for the job you need, in your own words.** "Research this brand." "Price this project." "The client says we are too expensive, help me reply." Starter sentences for every job are in `start-here/starter-prompts.md`.
 
 ## Pick the job you need
@@ -76,6 +82,14 @@ All 8 skills, all 4 industry files, the setup guides, and the templates are in t
 - Research is only as live as your assistant. If it cannot browse the web on your plan, it works from what you paste in, and it is instructed to say so.
 - The assistant follows these instructions carefully, but it can still make mistakes. The files show their working and flag gaps so your check is fast. Always read a draft before it reaches a client.
 - Template contract wording is a starting draft for your own adviser, not legal advice.
+
+## Using these as Claude Skills (optional)
+
+Each `SKILL.md` now carries the standard Agent Skills frontmatter (`name`, `description`, and `license`), so Claude users on a paid plan can also install a skill as a single ZIP: download `claude-skill-<skill-name>.zip` from the [latest release](https://github.com/janlopezdiagnostic/AI-Creative-Sales-Suite/releases/latest), then in Claude go to Settings, then Features, and upload it. This is a convenience for Claude users only. The plain upload route above works on free plans and on ChatGPT and Gemini too, and stays the normal way to use the suite.
+
+## Feedback, without a GitHub account
+
+If something does not work, or you improved a file, email itsjanlopez@gmail.com with the job you tried and the assistant you used. GitHub issues are open as well, but email is the front door. A short privacy note lives in START-HERE.md: what to take out of client material before you paste it into any AI tool.
 
 ## License
 
