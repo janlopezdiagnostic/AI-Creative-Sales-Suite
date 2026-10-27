@@ -76,4 +76,4 @@ You will paste client material into an AI assistant: emails, call notes, your ra
 
 ## If it does not work, or it helped
 
-You do not need a GitHub account to get help. Email itsjanlopez@gmail.com with the job you tried, the assistant you used, and what went wrong (or right). If you do use GitHub, issues are open too. Improvements people send back get folded into new releases, and the suite stays free.
+Open an issue on the GitHub repo with the job you tried, the assistant you used, and what went wrong (or right). Improvements people share get folded into new releases, and the suite stays free.

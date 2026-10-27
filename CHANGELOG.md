@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.1, 27 October 2026
+
+- Removed the personal email address from the README, START-HERE, and the website. Feedback runs through GitHub issues only.
+- Removed all recruiting and outreach material (the testers-wanted discussion post and the ready-to-send invite and social posts). The suite grows organically or not at all; the validation kit stays, for recording sessions with anyone who finds it and offers.
+
 ## v1.1.0, 27 October 2026
 
 - Releases with ZIPs: the full suite, a core and a full ZIP per skill, and a Claude Skills ZIP per skill, all built by `scripts/build_bundles.py`.

@@ -87,9 +87,9 @@ All 8 skills, all 4 industry files, the setup guides, and the templates are in t
 
 Each `SKILL.md` now carries the standard Agent Skills frontmatter (`name`, `description`, and `license`), so Claude users on a paid plan can also install a skill as a single ZIP: download `claude-skill-<skill-name>.zip` from the [latest release](https://github.com/janlopezdiagnostic/AI-Creative-Sales-Suite/releases/latest), then in Claude go to Settings, then Features, and upload it. This is a convenience for Claude users only. The plain upload route above works on free plans and on ChatGPT and Gemini too, and stays the normal way to use the suite.
 
-## Feedback, without a GitHub account
+## Feedback
 
-If something does not work, or you improved a file, email itsjanlopez@gmail.com with the job you tried and the assistant you used. GitHub issues are open as well, but email is the front door. A short privacy note lives in START-HERE.md: what to take out of client material before you paste it into any AI tool.
+If something does not work, or you improved a file, open a GitHub issue with the job you tried and the assistant you used. A short privacy note lives in START-HERE.md: what to take out of client material before you paste it into any AI tool.
 
 ## License
 
